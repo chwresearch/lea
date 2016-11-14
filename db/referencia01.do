@@ -2,7 +2,7 @@
 referencia01.do
 
 Referencia sobre preambulo de prepara.do
-
+No usar save, replace sin consultar
 */
 
 clear
@@ -10,7 +10,7 @@ set mem 200m
 capture log close
 log using "prepara.txt", replace
 * asegurarnos que estamos en la carpeta /db
-* cd "C:\...\lea\db" Windows
+* cd "C:\...\data\db" Windows
 * cd "/.../lea/do" Mac
 * ===============================
 * 2. Abrimos la base de personas (Caps. 1-11,16)
@@ -23,11 +23,11 @@ use "personas.dta"
 
 *generar ponderadores
 
-gen pondera = factor
+gen pondera = destring(FACTOR)
 label var pondera "factor de ponderación"
 
 *Identificador de hogar
-gen id_hogar =  formulario
+gen id_hogar =  NUMHOG
 label var id_hogar "identificación única del hogar"
 
 * Relación con jefe de familia
@@ -38,7 +38,7 @@ label var relacion "Relación con el jefe del hogar"
 gen jefe = .
 replace jefe = 1 if relacion == 1
 replace jefe = 0 if relacion >= 2 & relacion <= 13
-tab jefe, m
+tab jefe, missing
 
 * Hogares secundarios
 gen hogarsec = 0
@@ -120,7 +120,7 @@ P10D05 ¿Buscó trabajo por primera vez o había trabajado antes por lo menos du
 	2 = Trabajó antes			*/								
 
 gen PEA = .
-replace PEA = 1 if P10A02 == 1 & P10A02 == 2
+*replace PEA = 1 if P10A02 == 1 | P10A02 == 2
 replace PEA = 1 if P10A03 == 1 & P10A03 != .
 replace PEA = 1 if P10A04 == 1 & P10A04 != .
 replace PEA = 1 if P10C01 == 1 & P10C01 != .
