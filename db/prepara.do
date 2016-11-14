@@ -13,4 +13,10 @@ Reforma Educativa en el Aula
 */
 
 clear
-set mem 
+set mem 200m
+capture log close
+log using "prepara.txt", replace
+* asegurarnos que estamos en la carpeta /db
+* cd "C:\...\lea\db" Windows
+* cd "/.../lea/do" Mac
+
