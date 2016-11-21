@@ -4,6 +4,14 @@ author: Renato Vargas
 
 ---
 
+**Para imprimir:**
+
+Imprimir los dos papers.
+
+* **GuimbertetAl-2014.** Una tabla fabulosa de variables por tipo de variable y tema en la página 429. (Imprimir!).
+* **18-Jamison&Lockheed-1987**: Imprimir tabla de explicación de variables en página 288. Y la tabla de la participación escolar en la página 295. Y la regresión en la página 300.
+
+
 # Notas sobre la bibliografía para Barreras Educativas
 
 ## Bibliografía actual
@@ -20,12 +28,12 @@ Revisados para propuesta con formato <strike>tachado</strike>.
 * **<strike>08-GuimbertEtAl-2014.pdf</strike>**
 * <strike>09-Takahashi-2011.pdf</strike>
 * <strike>10-Gyimah-Brempong&Asiedu-2015.pdf</strike>
-* 11-King&Dewey&Borish-2015.pdf
-* 12-Mayol-Garcia&Landale-ND.pdf
-* 13-Souza-2013.pdf
-* 14-Lassibile-NavarroGomez-2008.pdf
-* 15-MontressorEtAl-2001.pdf
-* 16-Persoskie-2013.pdf
+* **<strike>12-Mayol-Garcia&Landale-ND.pdf</strike>**
+* **<strike>11-King&Dewey&Borish-2015.pdf</strike>**
+* **<strike>13-Souza-2013.pdf</strike>**
+* **<strike>14-Lassibile-NavarroGomez-2008.pdf**<strike>
+* **<strike>15-MontressorEtAl-2001.pdf</strike>**
+* **<strike>16-Persoskie-2013.pdf</strike>**
 * 17-Gustman&Pidot-ND.pdf
 * 18-Jamison&Lockheed-1987.pdf
 * 19-Fiske&Ladd-2003.pdf
@@ -106,5 +114,82 @@ Variables relevantes en el estudio:
 * menstruation, 
 * and lack of money 
 
+## Mayol-García & Landale (s.f.)
 
+Paper que explora la migración a Estados Unidos como factor para abandonar la escuela en México.
+
+No parece relevante para nuestro estudio.
+
+
+## De Souza (2013)
+
+Paper no-econométrico sobre prácticas educativas en México para crear mejores mecanismos de adaptación para niños provenientes de ese país en Estados Unidos.
+
+No relevante para nuestro estudio de barreras eduativas.
+
+## Lassibille y Navarro Gómez (2008)
+
+Este es un paper sobre España y tiene un modelo de probabilidades de abandonar la escuela basado en un modelo de competencia entre riesgos. Es sobre estudiantes universitarios.
+
+"This paper seeks to advance our understanding of the drop-out behavior of students in higher education." 
+
+Este paper es sobre un estudio longitudinal, pero vale la pena porque aunque en España, toca el problema de la deserción en educación superior.
+
+"We find that academic preparedness is one of the major influences on student completion."
+
+"...older students and students who delay entry into higher education are more likely to drop out before graduating." 
+
+"Our analysis provides guidance about the role that financial support plays in reducing drop-out rates; we also find that family characteristics are significant factors in explaining student drop out in long programs."
+
+Esto es clave para nuestro estudio:
+
+"We demonstrate, for example, that students who leave before graduation have fewer abilities and less motivation and that delayed entry into higher education as well as family background and age at enrollment are important factors in explaining students’ decision to withdraw from school."
+
+
+## MontressorEtAl 2001
+
+No relevante.
+
+## Persoskie (2013)
+
+Este trata sobre el riesgo pero habla sobre variables interesantes para predecir la no matriculación, pero tal vez para un estudio longitudinal (evaluar):
+
+* Estar matriculado actualmente.
+* Poco absentismo en el período anterior.
+* Más de los compañeros con pretensión de asistir a la educación superior.
+* No haber sido arrestado.
+
+## Gustman & Pidot (s.f.)
+
+Nos abre la posibilidad de usar la variable:
+
+* Gasto por alumno.
+
+Pero hay problema de endogeneidad con matriculación per capita. Hacer 2sls muestra que mayor gasto per capita sí atraerá más estudiantes.
+
+## Jamison & Lockheed (1987)
+
+Estudio de matriculación en Nepal.
+
+
+Variables adicionales:
+
+**Oferta**
+
+* Disponibilidad del hogar (Distancia a pie)
+* Hacinamiento.
+* Relevancia y calidad de la educación.
+
+**Demanda**
+
+* Costos sombra.
+* Costo del tiempo del alumno (trabajo remunerado o no remunerado).
+* Mujeres como se van a otorgar en matrimonio no valen la pena la inversión porque los retornos no irán a este hogar.
+
+Imprimir tabla de explicación de variables en página 288.
+
+* Revisar los resultados de los determinantes de la escolaridad de los padres y de la habilidad de los abuelos en regresiones distintas. Súper interesante.
+* Third-generation child school participation was determined jointly by second-generation langholdings., caste, schooling and numeracy, attitudinal modernity, and the child's sex.
+* The presence of small children in the household only slightly decreased girls' chances to participate in school;
+* School availability had no effecto on child schoo participation.
 
