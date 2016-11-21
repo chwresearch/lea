@@ -17,7 +17,7 @@ Revisados para propuesta con formato <strike>tachado</strike>.
 * <strike>05-Behrman&Knowles-1997.pdf</strike>
 * <strike>06-Filmer&Pritchet-1998.pdf</strike>
 * <strike>07-Mekheimar&Talaat2005.pdf</strike>
-* 08-GuimbertEtAl-2014.pdf
+* **<strike>08-GuimbertEtAl-2014.pdf</strike>**
 * <strike>09-Takahashi-2011.pdf</strike>
 * <strike>10-Gyimah-Brempong&Asiedu-2015.pdf</strike>
 * 11-King&Dewey&Borish-2015.pdf
@@ -54,9 +54,57 @@ Revisados para propuesta con formato <strike>tachado</strike>.
 
 ## Notas bibliográficas
 
-### 
+### Guimbert et al (2014)
+
+Sobre Afganistán.
+
+"The analysis indicates that further increasing supply alone is unlikely to lead to higher enrollment. The analysis confirms the importance of demand factors such as the education of parents, the family language, and other community and ethnic factors." (p. 419)
+
+Interesante separación entre factores de demanda y factores de oferta.
+
+**Factores de oferta:**
+
+* Distancia.
+* Instalaciones no adecuadas.
+* Género de los maestros .
+* Salubridad no adecuada.
+
+**Factores de demanda:**
+
+* Trabajo doméstico.
+* No es necesario.
+* Ingreso del hogar.
+* Caro.
+* Vergüenza.
+* Otros.
+
+A standard approach consists in comparing the benefits and costs of attending school (see for instance Bedi and Marshall, 2002). Such approach can usually be summarized (Glewwe and Kremer, 2005) as follows:
+
+E = f(S,C,H,R)
+
+Problemas con las regresiones de este tipo:
+
+* Será necesario tener variables omitidas.
+* Estamos seguros que nuestras variables estarán sujetas a error de medición.
+* Las variables omitidas: notablemente problemas relacionados con la calidad educativa y las cuestiones étnicas están potencialmente correlacionadas con el término de error, en el sentido que el gobierno invierte más donde hay más demanda y más educación. Esto crea un problema de "endogeneidad de la oferta de programas educativos". Para reducir este sesgo introduciremos variables regionales como dummies.
+* Sesgo de selección si los padres pueden escoger las escuelas.
+
+"A final note is that we use probit, logit, and linear probability model (LPM) specifications. Probit models are our standard specification, while logit and LPM are used as alternatives—and we found consistent and similar results. We also use robust standard errors as data are likely to present heteroskedasticity (as often with cross-sectional data)."
+
+Una tabla fabulosa de variables por tipo de variable y tema en la página 429. (Imprimir!).
 
 
+## Nia King, Cate Dewey, & David Borish (2015)
+
+No es un estudio econométrico-económico.
+
+"The study was conducted in Bwaliro village in rural western Kenya. A random sample of 64 students was obtained by blocking the village primary school’s student population accord- ing to grade level, gender, and orphan status. Qualitative and quantitative data were collected through interviews with parents, guardians, and key informants, and focus group discussions with students. Quantitative data were compared using chi-square tests, Student’s T-test, and Poisson regressions. Qualitative data were analyzed using thematic con- tent analysis."
+
+Variables relevantes en el estudio:
+
+* Malaria, 
+* menstruation, 
+* and lack of money 
 
 
 
