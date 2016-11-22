@@ -8,7 +8,7 @@ author: Renato Vargas
 
 Imprimir los dos papers.
 
-* **GuimbertetAl-2014.** Una tabla fabulosa de variables por tipo de variable y tema en la página 429. (Imprimir!).
+* **08-GuimbertetAl-2014.** Una tabla fabulosa de variables por tipo de variable y tema en la página 429. (Imprimir!).
 * **18-Jamison&Lockheed-1987**: Imprimir tabla de explicación de variables en página 288. Y la tabla de la participación escolar en la página 295. Y la regresión en la página 300.
 
 
@@ -192,4 +192,11 @@ Imprimir tabla de explicación de variables en página 288.
 * Third-generation child school participation was determined jointly by second-generation langholdings., caste, schooling and numeracy, attitudinal modernity, and the child's sex.
 * The presence of small children in the household only slightly decreased girls' chances to participate in school;
 * School availability had no effecto on child schoo participation.
+
+
+## Fiske & Ladd (2003)
+
+
+
+
 
