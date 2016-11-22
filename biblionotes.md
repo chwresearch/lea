@@ -191,10 +191,106 @@ Imprimir tabla de explicación de variables en página 288.
 * Revisar los resultados de los determinantes de la escolaridad de los padres y de la habilidad de los abuelos en regresiones distintas. Súper interesante.
 * Third-generation child school participation was determined jointly by second-generation langholdings., caste, schooling and numeracy, attitudinal modernity, and the child's sex.
 * The presence of small children in the household only slightly decreased girls' chances to participate in school;
-* School availability had no effecto on child schoo participation.
+* School availability had no effecto on child school participation.
 
 
 ## Fiske & Ladd (2003)
+
+Es un paper que explora el sistema de escuelas públicas pagadas en Sudáfrica.
+
+Tal vez no es tan relevante. Aún así poner atención a las variables.
+
+Variables de la matriculación en este paper:
+
+**Teacher variables:**
+
+* Learner to educator ratio.
+* Average qualification of teachers.
+* Percent of teachers underqualified.
+* School governing body teachers (share).
+
+**Family income:**
+
+* Community poverty.
+* Annual school fee.
+
+**Other control variables:**
+
+* School resources.
+* Former white (base).
+* Former DET (black).
+* Former HOR (coloured).
+* Former HOD (Indian).
+
+## Dammert (2008)
+
+Paper no relevante sobre la incidencia en la educación de cambiar de producción de coca a otro país.
+
+
+## DesJarding et al. (2002)
+
+Paper sobre deserción de la educación superior en Estados Unidos.
+
+El contexto difícilmente aplica para Guatemala, pero es interesante que ellos modelan la probabilidad de diferentes factores de ocasionar la deserción en el primer año, el segundo año, el tercer año, etc o de completar la universidad en 4, 5, 6 años.
+
+* Etnicidad
+* Tipo de institución
+* Edad al momento de la inscripción.
+* Deficiencias en distintas areas.
+* Seguridad sobre la carrera escogida.
+* La carrera escogida.
+* Si tiene préstamo estudiantil.
+* Si recibe alguna ayuda financiera.
+* Si trabaja y estudia.
+
+Otra vez aparece el "competing risks model" Poner atención.
+
+Es interesante ver que se puede modelar para ver qué tiene un efecto significativo en NO abandonar la escuela al año 1, 2, etc. además de modelar el abandono.
+
+Pero para esto es necesario un estudio de PANEL.
+
+## Carvalho 2012
+
+Household income as a determinant of child labor and school enrollment in Brazil: Evidence from a social security reform
+
+Habla sobre que la literatura ha encontrado efectos positivos en la matriculación de los programas de transferencias condicionadas como la Bolsa Escola (Bourguignon,  Ferreira, and Leite 2003) y Progresa en México (Schultz, 2004) con una reducción significativa en el trabajo en el mercado.
+
+Usa panel así que es poco útil.
+
+Interesante tomar en cuenta las cosas que dice que podrían estar correlacionadas con el ingreso:
+
+* trabajo infantil y matriculación, porque dinastías con más paciencia, más habilidad o un mayor gusto por la educacieon tendrá adultos con mayores niveles de educación. Esto es un indicador de sesgo de variable omitida.
+
+Interesante ver beneficios de programas de transferencias en página 410.
+
+Variables incluidas:
+
+Para niños (luego se repite para niñas):
+
+* Beneficios totales al hogar.
+* Beneficios para las mujeres del hogar.
+* Beneficios para los varones del hogar.
+* Razón entre beneficios totales e ingreso total.
+* Ingreso total del hogar.
+* Número de beneficiarios en el hogar.
+* Número de beneficiarias femeninas en el hogar.
+* Número de beneficiarios masculinos en el hogar.
+* Inscrito en la escuela.
+* Trabajó de manera remunerada en la semana de referencia.
+* Total de horas trabajadas en la semana.
+* Etnicidad.
+* Número de adultos en el hogar.
+* Hogar con jefe de hogar femenino.
+* Ambos padres presentes.
+* Número de niños en la familia.
+* Número de observaciones por columnas: todos, maduros, rural, antes, después.
+
+Poner atención si existe algo como mi familia progresa en la Encovi 2014.
+
+
+
+
+
 
 
 
