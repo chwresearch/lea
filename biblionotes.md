@@ -287,7 +287,17 @@ Para niños (luego se repite para niñas):
 
 Poner atención si existe algo como mi familia progresa en la Encovi 2014.
 
+## Sulaiman 2015
 
+Poner algo sobre esto en el estudio: El ingreso sí está correlacionado con ir o no a la escuela, pero evidencia de Bangladesh ha mostrado que simplemente subir el ingreso familiar a través de un programa de transferencias no necesariamente aumenta la matriculación y al contrario, puede aumentar el trabajo infantil. Esto es evidencia que programas como este no quiebran la trampa de la pobreza pues no hay acumulación de capital humano.
+
+Estudio sobre los efectos del incremento de la riqueza en la matriculación escolar in hogares ultra-pobres.
+
+Interesante es que muestra impactos limitados del incremento en ingresos en la matriculación, pero sí más gastos en educación, con el agravante que no se mejora significativamente el desempeño escolar.
+
+Usa diff in diff.
+
+La transmisión de activos (programa de transferencias) muestra que no hubo impacto en la matriculación escolar, pero sí en el trabajo infantil.
 
 
 
