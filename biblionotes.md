@@ -300,9 +300,27 @@ Usa diff in diff.
 La transmisión de activos (programa de transferencias) muestra que no hubo impacto en la matriculación escolar, pero sí en el trabajo infantil.
 
 
+## Deng et al. (2013)
+
+Paper que habla sobre los activos del hogar, la matriculación y las aspiraciones de los padres para la educación de los niños en China: Importa el sexo?
+
+Este paper es interesante porque analiza los activos del hogar, independiente de los ingresos y su efecto en la matriculación escolar.
+
+Comparado con el ingreso familiar, los activos del hogar son más importantes para la educación de las niñas que de los niños. 
+
+No hay mucho que tomar de este paper para nuestro estudio.
+
+## Badiuzzaman (2014)
 
 
+Es un paper sobre la percepción de violencia pasada y el miedo de violencia futura con interesantes resultados empíricos:
 
+* El miedo a perder la tierra afecta positiva y significativamente la decisión de mandar a los niños a la escuela.
 
+PONER ESTO EN NUESTRO ESTUDIO.
+
+La violencia está asociada con menos matriculación, pero cuando la violencia implica la pérdida de activos del hogar, indicadores de riqueza de largo plazo, hay una probabilidad más alta de enviar a los niños a la escuela como forma de invertir en otra forma de capital... 
+
+Esto es contraintuitivo porque uno pensaría que a más violencia menos matriculación. Pero el problema aquí es que el miedo de violencia de que se habla aquí es sobre el desalojo de tierras, pues eso equivale a un miedo a ver el mayor capital que la familia posee disminuido, mostrando la necesidad de compensar con otras formas de capital.
 
 
