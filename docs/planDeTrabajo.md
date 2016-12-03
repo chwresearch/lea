@@ -143,66 +143,15 @@ encontrado:
 
 ### Otros antecedentes en la literatura
 
-Los hallazgos del diagnóstico son congruentes con algunas de las causas
-de la deserción, no-continuidad o la no-matriculación en año encontradas
-consistentemente en estudios de sección cruzada, como los que son
-posibles con Encovi 2014. En general, la edad y el sexo, el embarazo
-temprano y la pobreza son los factores que aparecen con más frecuencia
-en los estudios (Zuilkowski & Dubeck, 2016). Quizás la estimación del
-ingreso del hogar es la variable más asociada en estudios con diversas
-formas de acceso a escolaridad de una persona, incluso para el caso de
-Guatemala (Behrman & Knowles, 1997) y generalmente en estos estudios
-para los hogares más pobres el ingreso resulta decisivo, mientras que
-para hogares arriba de la línea de pobreza entran en juego otras
-variables e interacciones. Alternativamente, otras variables
-representativas de la riqueza a largo plazo del hogar diferentes del
-ingreso, muestran resultados similares pero más robustos en estudios de
+Los hallazgos del diagnóstico son congruentes con algunas de las causas de la deserción, no-continuidad o la no-matriculación en año encontradas consistentemente en estudios de sección cruzada, como los que son posibles con Encovi 2014. En general, la edad y el sexo, el embarazo temprano y la pobreza son los factores que aparecen con más frecuencia en los estudios (Zuilkowski & Dubeck, 2016). Quizás la estimación del ingreso del hogar es la variable más asociada en estudios con diversas formas de acceso a escolaridad de una persona, incluso para el caso de Guatemala (Behrman & Knowles, 1997) y generalmente en estos estudios para los hogares más pobres el ingreso resulta decisivo, mientras que para hogares arriba de la línea de pobreza entran en juego otras variables e interacciones. Alternativamente, otras variables representativas de la riqueza a largo plazo del hogar diferentes del ingreso, muestran resultados similares pero más robustos en estudios de
 varios países (Filmer & Pritchet, 2009).
 
-Los hallazgos del diagnóstico son congruentes con hallazgos a nivel
-mundial. Por ejemplo, la Iniciativa Global por los Niños Fuera de la
-Escuela de UNICEF y UNESCO, que incluye a Guatemala[^1] ha identificado
-cinco barreras a la educación alrededor del mundo: vivir en zonas
-violentas o de conflicto; las asociaciones culturales altamente
-arraigadas con uno u otro sexo definen quién va y quién se queda en la
-escuela; la dependencia de los hogares de mano de obra infantil compiten
-con las aspiraciones educativas que pueda tener la familia; muchos niños
-son marginados por sistemas educativos en idiomas que no hablan ni
-entienden; y finalmente la falta de datos sobre la cantidad y
-necesidades de los niños con discapacidades constituyen barreras
-importantes a la educación (Hawke, 2015). Es posible aproximar ciertas
+Los hallazgos del diagnóstico son congruentes con hallazgos a nivel mundial. Por ejemplo, la Iniciativa Global por los Niños Fuera de la Escuela de UNICEF y UNESCO, que incluye a Guatemala[^1] ha identificado cinco barreras a la educación alrededor del mundo: vivir en zonas violentas o de conflicto; las asociaciones culturales altamente arraigadas con uno u otro sexo definen quién va y quién se queda en la escuela; la dependencia de los hogares de mano de obra infantil compiten con las aspiraciones educativas que pueda tener la familia; muchos niños son marginados por sistemas educativos en idiomas que no hablan ni entienden; y finalmente la falta de datos sobre la cantidad y necesidades de los niños con discapacidades constituyen barreras importantes a la educación (Hawke, 2015). Es posible aproximar ciertas
 variables relacionadas con estas barreras también en Encovi 2014.
 
-Además de estas situaciones directas, las perspectivas de lo que la
-educación formal, técnica o no formal pueden hacer para mejorar las
-condiciones en un futuro también desempeñan un papel en la decisión de
-continuar o no continuar en la escuela. Esto se agrupa en estudios que
-tratan de cuantificar econométricamente los retornos económicos de un
-año adicional de formación y si esto importa para la decisión de asistir
-o continuar estudiando[^2]. En general, no hay mayor duda que un año más
-de educación o un nivel educativo mayor traiga mejoras económicas para
-quiénes lo obtienen, pero es interesante que la evidencia muestra que
-esto importa a las personas no pobres, mientras que aquellas personas
-debajo de la línea de pobreza esto entra en conflicto con el costo de
-oportunidad inmediata (pérdida de ingresos del niño, adolescente o
-adulto trabajador por estudiar) volviendo esta relación negativa
-(Kingdon & Theopold, 2006), algo que también deberá tomarse en cuenta al
-diseñar el estudio multivariado.
+Además de estas situaciones directas, las perspectivas de lo que la educación formal, técnica o no formal pueden hacer para mejorar las condiciones en un futuro también desempeñan un papel en la decisión de continuar o no continuar en la escuela. Esto se agrupa en estudios que tratan de cuantificar econométricamente los retornos económicos de un año adicional de formación y si esto importa para la decisión de asistir o continuar estudiando[^2]. En general, no hay mayor duda que un año más de educación o un nivel educativo mayor traiga mejoras económicas para quiénes lo obtienen, pero es interesante que la evidencia muestra que esto importa a las personas no pobres, mientras que aquellas personas debajo de la línea de pobreza esto entra en conflicto con el costo de oportunidad inmediata (pérdida de ingresos del niño, adolescente o adulto trabajador por estudiar) volviendo esta relación negativa (Kingdon & Theopold, 2006), algo que también deberá tomarse en cuenta al diseñar el estudio multivariado.  
 
-También existen patrones de largo plazo e interacciones entre varios
-factores que llevan a que las razones aisladas mencionadas anteriormente
-terminen en abandono o no-asistencia a la educación o formación, pues el
-abandono escolar difícilmente puede ser atribuido a un evento o impacto
-particular (Hunt, 2008. Aproximaciones a estas interacciones pueden
-tener contrapartes dentro de ENCOVI que permitan hacer algunas
-inferencias sobre qué sí es una razón para regresar a la escuela, la
-retención, el papel de la discapacidad, el abandono escolar en centros
-privados, factores de motivación, el papel de los maestros. También es
-posible identificar algunos de los indicadores de riesgo de abandonar la
-formación en un futuro (Hunt, 2008) como variables aproximadas dentro de
-ENCOVI 2014: la repitencia, el desempeño escolar insuficiente, los niños
-que se matriculan de mayor edad a la que corresponde y la ausencia
-regular o por lapsos de la escuela o la formación técnica o formal.
+También existen patrones de largo plazo e interacciones entre varios factores que llevan a que las razones aisladas mencionadas anteriormente terminen en abandono o no-asistencia a la educación o formación, pues el abandono escolar difícilmente puede ser atribuido a un evento o impacto  articular (Hunt, 2008. Aproximaciones a estas interacciones pueden tener contrapartes dentro de ENCOVI que permitan hacer algunas inferencias sobre qué sí es una razón para regresar a la escuela, la retención, el papel de la discapacidad, el abandono escolar en centros privados, factores de motivación, el papel de los maestros. También es posible identificar algunos de los indicadores de riesgo de abandonar la formación en un futuro (Hunt, 2008) como variables aproximadas dentro de ENCOVI 2014: la repitencia, el desempeño escolar insuficiente, los niños que se matriculan de mayor edad a la que corresponde y la ausencia regular o por lapsos de la escuela o la formación técnica o formal.
 
 ## Enfoque
 
