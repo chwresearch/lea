@@ -32,4 +32,3 @@ Comprendiendo esto, es posible identificar factores que incrementan dichos costo
 ### Barreras asociadas a características de la región
 
 ## Las percepciones de los guatemaltecos
- 

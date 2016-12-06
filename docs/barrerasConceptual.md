@@ -35,7 +35,7 @@ Joyabaj.
 El componente Educación para el empleo y aprendizaje para la vida
 realizó estudios que identificaron las razones más constantes que
 generan el abandono de la escuela por parte de niños y jóvenes. Mediante
-la información recabada en el Diagnóstico Participativo de Jóvenes y los estudios de capital social en cada municipio, se identificaron barreras que limitan la permanencia y la continuidad de sus estudios a los jóvenes que se encuentran fuera de la escuela.
+la información recabada en el un diagnóstico participativo de jóvenes y los estudios de capital social en cada municipio se identificaron barreras que limitan la permanencia y la continuidad de sus estudios a los jóvenes que se encuentran fuera de la escuela.
 
 A través del Diagnóstico participativo de jóvenes del proyecto USAID Leer y Aprender (USAID, 2015) se ha caracterizado a la población en el área de intervención del proyecto USAID Leer y Aprender describiendo aspectos del entorno familiar, la educación, las actividades económicas, la migración, la salud sexual y reproductiva, la participación ciudadana, el capital social, la vulnerabilidad y el riesgo social, la comunicación, entre otros. Entre los hallazgos más importantes se encuentran:
 
@@ -88,7 +88,7 @@ El proyecto **Leer y Aprender** ha identificado barreras que dificultan que los 
 
 ### Barreras prioritarias identificadas por el proyecto USAID Leer y Aprender
 
-El diagnóstico participativo de jóvenes desarrollado por el proyecto Leer y Aprender (USAID, 2015) identifica barreras, además de otras variables representativas de la asistencia o no-asistencia a la escuela o a un centro de formación técnica o no formal. De manera cuantitativa, el diagnóstico identifica, en orden de importancia, lo económico, el matrimonio, las razones personales y el clima escolar como las razones para dejar de estudiar identificadas por más de los encuestados, seguidas del acceso, la discriminación y otros, con menos mención como se muestra en la **tabla**.
+El diagnóstico participativo de jóvenes desarrollado por el proyecto Leer y Aprender (USAID, 2015) identifica barreras, además de otras variables representativas de la asistencia o no-asistencia a la escuela o a un centro de formación técnica o no formal. De manera cuantitativa, el diagnóstico identifica, en orden de importancia, lo económico, el matrimonio, las razones personales y el clima escolar como las razones para dejar de estudiar identificadas por más de los encuestados, seguidas del acceso, la discriminación y otros con menos mención como se muestra en la **tabla**.
 
 **[Tabla 1. Razones para dejar de estudiar, por sexo y etnia (pág 22, USAID, 2016)]** 
 
@@ -135,7 +135,7 @@ Para dar contexto a los términos que aparecen con más frecuencia aparecen,se h
 
 El cuadro 2 (a-h) muestran las correlaciones de ocho palabras[^4] más frecuentes en la figura 1 con otros términos, es decir el porcentaje de aparición conjunta de esas palabras en las respuestas dadas por los participantes. Esto permite identificar temas comunes en las respuestas.
 
-[^4]: Se seleccionan ocho palabras por ser las que tienen una frecuencia mayor a 10. La selección es arbitraria para mejorar la exposición. En el anexo se consignan las correlaciones para todas las palabras de la figura.
+[^4]: Se seleccionan ocho palabras por ser las que tienen una frecuencia mayor a 10. La selección es arbitraria para facilitar la exposición. En el anexo se consignan las correlaciones para todas las palabras de la figura.
 
 **Cuadro 2. Términos correlacionados con las palabras más frecuentes en barreras de acceso a la educación (porcentaje de aparición conjunta en respuestas)**
 
@@ -161,25 +161,58 @@ Al indagar sobre los términos relacionados con las palabras más frecuentes, lo
 
 **Cuadro 3. Términos correlacionados con las palabras más frecuentes en barreras a la formación laboral y emprendimiento (porcentaje de aparición conjunta en respuestas)**
 
-Respecto de la palabra "padres" (4a) se pueden observar vínculos con "interés" y "apoyo", lo cual habla del involucramiento que los primeros puedan tener en la formación profesional. También es posible observar la vinculación con la palabra "adolescentes", lo cual, en otra arista, se ve vinculado con el inicio de una familia a temprana edad como barrera para acceder a la formación laboral y emprendimiento.
+Respecto de la palabra "padres" (3a) se pueden observar vínculos con "interés" y "apoyo", lo cual habla del involucramiento que los primeros puedan tener en la formación profesional.
 
-Es clara la relación del tema de los padres con "familia" (4b), para la cual las correlaciones importantes denotan temas como el apoyo familiar, lo numeroso de la familia y la desintegración como elementos que determinan el acceso a este tipo de formación.
+Es clara la relación del tema de los padres con "familia" (3b), palabra para la cual las correlaciones importantes denotan temas como el apoyo familiar, lo numeroso de la familia y la desintegración como elementos que determinan el acceso a la formación laboral y empresarial.
 
-Aunque ya se mencionó lo económico, un tema que surge por primera vez en esta exposición es el acceso a créditos (4c), lo cual es un tema que es muy relevante en la literatura económica.
+Aunque ya se mencionó lo económico, un tema que surge por primera vez en esta exposición es el acceso a créditos (3c), lo cual es un tema que es muy relevante en la literatura económica. Respecto de lo económico, también resulta relevante la falta de oportunidades de trabajo (3h), lo cual no hace atractivo este tipo de formación pues es difícil de aplicar.
 
-Respecto de la "formación" (4e) es importante reconocer la gratuidad como factor importante, así como la formación de los maestros como una barrera. 
+Respecto de la "formación" (3e) es importante reconocer la gratuidad como factor importante, así como la formación de los maestros como una barrera. 
 
-En lo cultural (4f) se encuentra la sexualidad como una barrera, lo cual se refiere al posible tabú que puede existir para que las mujeres accedan a este tipo de formación.
+En lo cultural (3f) se encuentra la sexualidad como una barrera, lo cual se refiere al posible tabú que puede existir para que las mujeres accedan a este tipo de formación.
 
-En cuanto al trabajo (4g)  
+En cuanto al trabajo (3g) se encuentra que es una barrera que este tipo de formación no prepara para la competitividad y no está vinculada con la oferta laboral. Además, no existe una oferta de este tipo de formación para el trabajo pública y gratuita.
+
+El análisis de las transcripciones ha permitido esclarecer tendencias relevantes en las opiniones de los participantes respecto a barreras de acceso a la educación y barreras de acceso a la formación profesional y de emprendimiento y agruparlas en temas relevantes. A manera de resumen se puede afirmar que son barreras relevantes:
+
+**Barreras de acceso a la educación (autodiagnóstico)**
+
+1. El trabajo.
+
+2. La distancia de los establecimientos educativos.
+
+3. La formación de los padres.
+
+4. La situación y los problemas económicos.
+
+5. La familia: la desintegración familiar, la muerte, cuán numeroso es el núcleo.
+
+6. Los establecimientos: condiciones de los establecimientos y qué tan lejos se encuentran. Además, es importante su tamaño (capacidad) y su capacidad, así como el cupo.
+
+7. La oferta educativa: brechas en la formación, lo privado, la existencia de becas, la cobertura pública y oficial en áreas rurales.
+
+**Barreras de acceso a la formación profesional y emprendimiento (autodiagnóstico)** 
+
+1. Lo económico: aunque la situación económica en general es importante, también se menciona el acceso al crédito como relevante al hablar de barreras.
+
+2. La falta de oportunidades de trabajo hacen irrelevante la formación para el trabajo.
+
+3. La familia. La falta de apoyo, lo numeroso de la familia y la desintegración.
+
+4. Los padres. El interés y apoyo que puedan ofrecer.
+
+5. El acceso. Existe percepción que es difícil acceder a la formación laboral.
+
+6. La formación de los maestros en este tema.
+
+7. Lo cultural, patrones y creencias sobre el papel del sexo de los individuos en el acceso a este tipo de formación.
+
+8. El entorno y oferta de formación.
 
 
+### Antecedentes en la literatura
 
-
-
-### Otros antecedentes en la literatura
-
-Los hallazgos del diagnóstico son congruentes con algunas de las causas de la deserción, no-continuidad o la no-matriculación en año encontradas consistentemente en estudios de sección cruzada, como los que son posibles con Encovi 2014. En general, la edad y el sexo, el embarazo temprano y la pobreza son los factores que aparecen con más frecuencia en los estudios (Zuilkowski & Dubeck, 2016). Quizás la estimación del ingreso del hogar es la variable más asociada en estudios con diversas formas de acceso a escolaridad de una persona, incluso para el caso de Guatemala (Behrman & Knowles, 1997) y generalmente en estos estudios para los hogares más pobres el ingreso resulta decisivo, mientras que para hogares arriba de la línea de pobreza entran en juego otras variables e interacciones. Alternativamente, otras variables representativas de la riqueza a largo plazo del hogar diferentes del ingreso, muestran resultados similares pero más robustos en estudios de
+Los hallazgos del diagnóstico participativo de jóvenes (USAID, 2015) y del ejercicio de autodiagnóstico (USAID, 2016) son congruentes con algunas de las causas de la deserción, no-continuidad o la no-matriculación en año encontradas consistentemente en estudios en la literatura sobre el tema. En general, la edad y el sexo, el embarazo temprano y la pobreza son los factores que aparecen con más frecuencia en los estudios (Zuilkowski & Dubeck, 2016). Quizás la estimación del ingreso del hogar es la variable más asociada en estudios con diversas formas de acceso a escolaridad de una persona, incluso para el caso de Guatemala (Behrman & Knowles, 1997) y generalmente en estos estudios para los hogares más pobres el ingreso resulta decisivo, mientras que para hogares arriba de la línea de pobreza entran en juego otras variables e interacciones. Alternativamente, otras variables representativas de la riqueza a largo plazo del hogar diferentes del ingreso, muestran resultados similares pero más robustos en estudios de
 varios países (Filmer & Pritchet, 2009).
 
 Los hallazgos del diagnóstico son congruentes con hallazgos a nivel mundial. Por ejemplo, la Iniciativa Global por los Niños Fuera de la Escuela de UNICEF y UNESCO, que incluye a Guatemala[^1] ha identificado cinco barreras a la educación alrededor del mundo: vivir en zonas violentas o de conflicto; las asociaciones culturales altamente arraigadas con uno u otro sexo definen quién va y quién se queda en la escuela; la dependencia de los hogares de mano de obra infantil compiten con las aspiraciones educativas que pueda tener la familia; muchos niños son marginados por sistemas educativos en idiomas que no hablan ni entienden; y finalmente la falta de datos sobre la cantidad y necesidades de los niños con discapacidades constituyen barreras importantes a la educación (Hawke, 2015). Es posible aproximar ciertas
@@ -498,7 +531,6 @@ Fases
 Cronograma
 ==========
 
-![](media/image1.tiff){width="6.5in" height="5.002083333333333in"}
 
 Bibliografía
 ============
