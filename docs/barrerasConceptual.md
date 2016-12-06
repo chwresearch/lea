@@ -1,6 +1,8 @@
 # Plan de Trabajo Barreras
 **Plan International, Proyecto Leer y Aprender**
 
+13, 15, 19
+
 _Determinación del peso de variables que explican que los jóvenes no
 estén en la escuela, utilizando ENCOVI 2014 y priorizando barreras
 identificadas por el proyecto Leer y Aprender del proyecto USAID /
@@ -90,7 +92,7 @@ El proyecto **Leer y Aprender** ha identificado barreras que dificultan que los 
 
 El diagnóstico participativo de jóvenes desarrollado por el proyecto Leer y Aprender (USAID, 2015) identifica barreras, además de otras variables representativas de la asistencia o no-asistencia a la escuela o a un centro de formación técnica o no formal. De manera cuantitativa, el diagnóstico identifica, en orden de importancia, lo económico, el matrimonio, las razones personales y el clima escolar como las razones para dejar de estudiar identificadas por más de los encuestados, seguidas del acceso, la discriminación y otros con menos mención como se muestra en la **tabla**.
 
-**[Tabla 1. Razones para dejar de estudiar, por sexo y etnia (pág 22, USAID, 2016)]** 
+**[Tabla 1. Razones para dejar de estudiar, por sexo y etnia (pág 22, USAID, 2016)]**  
 
 A través de una fase cualitativa y técnicas proyectivas el diagnóstico (USAID, 2016) construye un marco de apreciación más amplio que da sustento a las razones mencionadas anteriormente y la relación de la educación con que "le vaya bien en la vida" al individuo. Esta construcción permite evidenciar las barreras prioritarias para el área de influencia como:
 
@@ -210,7 +212,7 @@ El análisis de las transcripciones ha permitido esclarecer tendencias relevante
 8. El entorno y oferta de formación.
 
 
-### Antecedentes en la literatura
+## Marco conceptual
 
 Los hallazgos del diagnóstico participativo de jóvenes (USAID, 2015) y del ejercicio de autodiagnóstico (USAID, 2016) son congruentes con algunas de las causas de la deserción, no-continuidad o la no-matriculación en año encontradas consistentemente en estudios en la literatura sobre el tema. En general, la edad y el sexo, el embarazo temprano y la pobreza son los factores que aparecen con más frecuencia en los estudios (Zuilkowski & Dubeck, 2016). Quizás la estimación del ingreso del hogar es la variable más asociada en estudios con diversas formas de acceso a escolaridad de una persona, incluso para el caso de Guatemala (Behrman & Knowles, 1997) y generalmente en estos estudios para los hogares más pobres el ingreso resulta decisivo, mientras que para hogares arriba de la línea de pobreza entran en juego otras variables e interacciones. Alternativamente, otras variables representativas de la riqueza a largo plazo del hogar diferentes del ingreso, muestran resultados similares pero más robustos en estudios de
 varios países (Filmer & Pritchet, 2009).
