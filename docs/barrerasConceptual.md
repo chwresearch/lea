@@ -39,7 +39,7 @@ realizó estudios que identificaron las razones más constantes que
 generan el abandono de la escuela por parte de niños y jóvenes. Mediante
 la información recabada en el un diagnóstico participativo de jóvenes y los estudios de capital social en cada municipio se identificaron barreras que limitan la permanencia y la continuidad de sus estudios a los jóvenes que se encuentran fuera de la escuela.
 
-A través del Diagnóstico participativo de jóvenes del proyecto USAID Leer y Aprender (USAID, 2015) se ha caracterizado a la población en el área de intervención del proyecto USAID Leer y Aprender describiendo aspectos del entorno familiar, la educación, las actividades económicas, la migración, la salud sexual y reproductiva, la participación ciudadana, el capital social, la vulnerabilidad y el riesgo social, la comunicación, entre otros. Entre los hallazgos más importantes se encuentran:
+El Diagnóstico participativo de jóvenes del proyecto USAID Leer y Aprender (USAID, 2015) caracteriza a la población en el área de intervención del proyecto USAID Leer y Aprender describiendo aspectos del entorno familiar, la educación, las actividades económicas, la migración, la salud sexual y reproductiva, la participación ciudadana, el capital social, la vulnerabilidad y el riesgo social, la comunicación, entre otros. Entre los hallazgos más importantes se encuentran:
 
 1. Cuatro de cada diez jóvenes entre 15 y 24 años de edad, están desmotivados para participar.
 
@@ -82,15 +82,15 @@ A través del Diagnóstico participativo de jóvenes del proyecto USAID Leer y A
     pequeños (Santa Bárbara, Concepción Tutuapa, Santa María Chiquimula,
     Santa Lucía La Reforma).
 
-Estos hallazgos sugieren que en el estadio de desarrollo en que se encuentran las comunidades analizadas, el balance entre costos económicos de la educación y sus beneficios percibidos tienen un peso sustancial en las decisiones de educación de las familias, más que otras consideraciones relacionadas con el desarrollo intelectual de los jóvenes.
+No obstante existen diferentes elementos sociales, culturales e intelectuales que afectan las decisiones de educación, estos hallazgos sugieren que en el estadio de desarrollo en que se encuentran las comunidades analizadas, el balance entre costos económicos de la educación y sus beneficios percibidos tienen un peso sustancial en esas decisiones.
 
-El proyecto **Leer y Aprender** ha identificado barreras que dificultan que los jóvenes se inscriban, asistan y se mantengan en la escuela o en la formación para el trabajo. En este documento se busca dar sustento téorico y empírico a esas barreras, contrastándolas con hallazgos de estudios científicos e institucionales. Partiendo de conclusiones de ese proceso se propone un marco analítico que sirva como base para estudios empíricos con encuestas de carácter nacional, como la Encuesta de Condiciones de Vida (ENCOVI) y otras de la misma naturaleza.
+El proyecto **Leer y Aprender** ha identificado barreras que dificultan que los jóvenes se inscriban, asistan y se mantengan en la escuela o en la formación para el trabajo. En este documento se busca dar sustento téorico y empírico a esas barreras, contrastándolas con hallazgos de estudios científicos e institucionales. Partiendo de conclusiones de ese proceso se propone un marco analítico que pueda servir como base para estudios empíricos y para delimitar áreas de acción para la implementación de soluciones.
 
 ## Antecedentes 
 
 ### Barreras prioritarias identificadas por el proyecto USAID Leer y Aprender
 
-El diagnóstico participativo de jóvenes desarrollado por el proyecto Leer y Aprender (USAID, 2015) identifica barreras, además de otras variables representativas de la asistencia o no-asistencia a la escuela o a un centro de formación técnica o no formal. De manera cuantitativa, el diagnóstico identifica, en orden de importancia, lo económico, el matrimonio, las razones personales y el clima escolar como las razones para dejar de estudiar identificadas por más de los encuestados, seguidas del acceso, la discriminación y otros con menos mención como se muestra en la **tabla**.
+El diagnóstico participativo de jóvenes desarrollado por el proyecto Leer y Aprender (USAID, 2015) identifica barreras, además de otras variables representativas de la asistencia o no-asistencia a la escuela o a un centro de formación técnica o no formal. De manera cuantitativa, el diagnóstico identifica, en orden de importancia, lo económico, el matrimonio, las razones personales y el clima escolar como las razones para dejar de estudiar identificadas por la mayoría de los encuestados, seguidas del acceso, la discriminación y otros con menor mención como se muestra en la **tabla**.
 
 **[Tabla 1. Razones para dejar de estudiar, por sexo y etnia (pág 22, USAID, 2016)]**  
 
@@ -114,7 +114,7 @@ A través de una fase cualitativa y técnicas proyectivas el diagnóstico (USAID
 
 ### Las percepciones de los guatemaltecos sobre las barreras de acceso a la educación
 
-A través de una serie de eventos participativos, se indagó sobre lo que los guatemaltecos en 9 departamentos del país fuera del área de influencia consideraban como barreras de acceso a la educación y barreras a la formación laboral y emprendimiento. En total se obtuvieron 193 respuestas para el primer tema y 121 para el segundo. Un análisis de una transcripción de esas respuestas permitió, por una parte, establecer la frecuencia de la mención de ciertos conceptos[^2], y por otra, determinar la independencia relativa entre esos conceptos, así como qué tanto se relacionan con con otros términos menos frecuentes. Este proceso permitió aislar temas específicos relevantes sobre ambos tipos de barreras en la información cualitativa con un fundamento cuantitativo[^3].
+A través de una serie de eventos participativos, se indagó sobre lo que los guatemaltecos en 9 departamentos del país fuera del área de influencia consideraban como barreras de acceso a la educación y barreras a la formación laboral y emprendimiento. En total se obtuvieron 193 respuestas para el primer tema y 121 para el segundo. Un análisis de una transcripción de esas respuestas permitió, por una parte, establecer la frecuencia de la mención de ciertos conceptos[^2], y por otra, determinar la independencia relativa entre esos conceptos, así como qué tanto se relacionan con con otros términos menos frecuentes. Este proceso permitió aislar temas específicos relevantes entre las respuestas sobre ambos tipos de barreras en la información cualitativa con un fundamento cuantitativo[^3].
 
 [^2]: Aunque estrictamente la técnica utilizada analice la ocurrencia de palabras y no de conceptos, un trabajo de preparación reemplazó ciertas palabras que se refieren al mismo concepto con una misma palabra.
 
@@ -125,17 +125,17 @@ La figura 1 muestra la frecuencia de palabras que aparecen con mayor frecuencia 
 
 **[Figura 1. Frecuencia de términos relacionados con las barreras de acceso a la educación]**
 
-Si bien todos los términos en el diagrama son relevantes, siete términos se destacan y evidencian lo económico, los establecimientos (educativos), la familia, la formación, los padres, los programas, y el trabajo como los aspectos más relevantes al hablar de barreras de acceso a la eduación. El análisis de conglomerados[^4], optando por 8 grupos permitió determinar el mismo número de temas en que esas palabras están relacionadas. La figura 2 muestra estos grupos y se resalta su separación a ocho niveles a través de recuadros rojos. 
+Si bien todos los términos en el diagrama son relevantes, siete términos se destacan y evidencian lo económico, los establecimientos (educativos), la familia, la formación, los padres, los programas, y el trabajo como los aspectos más relevantes al hablar de barreras de acceso a la eduación. El análisis de conglomerados[^4], optando por 8 grupos permitió determinar el mismo número de temas en los cuales esas palabras están relacionadas. La figura 2 muestra estos grupos y se resalta su separación a ocho niveles a través de recuadros rojos. 
 
 [^4]: Se utilizó el método de Ward para hacer grupos de palabras estadísticamente independientes.
 
 **[Figura 2. Grupos de palabras estadísticamente independientes relacionadas con barreras de acceso a la educación**
 
-El análisis de percepciones respalda la importancia de temas identificados por el diagnósitico participativo (USAID, 2015) en departamentos de Guatemala fuera del área de intervención del proyecto y se ven como relevantes el trabajo, la distancia de los establecimientos educativos, la formación de los padres, lo económico, la familia, y una serie de descriptores del entorno, como la cobertura de la oferta educativa.
+El análisis de percepciones respalda la importancia de temas identificados por el diagnósitico participativo (USAID, 2015) en departamentos de Guatemala fuera del área de intervención del proyecto. Se ven como relevantes el trabajo, la distancia de los establecimientos educativos, la formación de los padres, lo económico, la familia, y una serie de descriptores del entorno, como la cobertura de la oferta educativa.
 
-Para dar contexto a los términos que aparecen con más frecuencia aparecen,se hizo un análisis de correlación en una matriz de distancias de las palabras en las frases en que los participantes las utilizaron. De esta forma se identificó términos con los que las palabras más frecuentes aparecen normalmente. Esto permite construir frases que sugieren temas específicos.
+Para dar contexto a los términos que aparecen con más frecuencia,se hizo un análisis de correlación en una matriz de distancias de las palabras en las frases en que los participantes las utilizaron. De esta forma se identificó términos cerca de los cuáles aparecen normalmente las palabras más frecuentes aparecen. Esto permitió construir temáticas relevantes con fundamento cuantitativo.
 
-El cuadro 2 (a-h) muestran las correlaciones de ocho palabras[^4] más frecuentes en la figura 1 con otros términos, es decir el porcentaje de aparición conjunta de esas palabras en las respuestas dadas por los participantes. Esto permite identificar temas comunes en las respuestas.
+El cuadro 2 (a-h) muestran las correlaciones de ocho palabras[^4] más frecuentes en la figura 1 con otros términos, es decir el porcentaje de aparición conjunta de esas palabras en las respuestas dadas por los participantes.
 
 [^4]: Se seleccionan ocho palabras por ser las que tienen una frecuencia mayor a 10. La selección es arbitraria para facilitar la exposición. En el anexo se consignan las correlaciones para todas las palabras de la figura.
 
@@ -149,7 +149,7 @@ Respecto de los establecimientos educativos (2e) es posible identificar las cond
 
 Adicionalmente, es posible identificar temas del entorno o de la oferta educativa que también son relevantes como barreras de acceso a la educación entre los participantes.  Resultan de interés las brechas en la formación (2g), la existencia de formación privada y la existencia de programas de becas o extraescolares (2g).
 
-Finalmente, vemos la correlación de la palabra "cobertura" con la palabra "nula", así como la vinculación con "área rural", "pública" y "oficial", lo cual sugiere que existen retos en la oferta educativa que los participantes identifican como barreras de acceso a la educación de manera consistente. Como se verá más adelante, esto es congruente con el estado del arte en la literatura sobre el tema.
+Finalmente, vemos la correlación de la palabra "cobertura" con la palabra "nula", así como la vinculación con "área rural", "pública" y "oficial", lo cual sugiere que existen retos en la oferta educativa que los participantes identifican como barreras de acceso a la educación de manera consistente. Como se verá más adelante, esto es congruente con experiencias de otros países.
 
 El mismo análisis se condujo para las barreras de formación laboral y emprendimiento. La figura 3 muestra las palabras más relevantes en este tema. La palabra "económico" es mencionada con mayor frecuencia entre los participantes, lo cual es consistente con el diagnóstico participativo de jóvenes (USAID, 2015).  
 
@@ -173,7 +173,7 @@ Respecto de la "formación" (3e) es importante reconocer la gratuidad como facto
 
 En lo cultural (3f) se encuentra la sexualidad como una barrera, lo cual se refiere al posible tabú que puede existir para que las mujeres accedan a este tipo de formación.
 
-En cuanto al trabajo (3g) se encuentra que es una barrera que este tipo de formación no prepara para la competitividad y no está vinculada con la oferta laboral. Además, no existe una oferta de este tipo de formación para el trabajo pública y gratuita.
+En cuanto al trabajo (3g) se encuentra que es una barrera que este tipo de formación no prepara para la competitividad y no está vinculada con la oferta laboral. Además, en otra arista del mismo término no existe una oferta de este tipo de formación para el trabajo pública y gratuita.
 
 El análisis de las transcripciones ha permitido esclarecer tendencias relevantes en las opiniones de los participantes respecto a barreras de acceso a la educación y barreras de acceso a la formación profesional y de emprendimiento y agruparlas en temas relevantes. A manera de resumen se puede afirmar que son barreras relevantes:
 
@@ -189,7 +189,7 @@ El análisis de las transcripciones ha permitido esclarecer tendencias relevante
 
 5. La familia: la desintegración familiar, la muerte, cuán numeroso es el núcleo.
 
-6. Los establecimientos: condiciones de los establecimientos y qué tan lejos se encuentran. Además, es importante su tamaño (capacidad) y su capacidad, así como el cupo.
+6. Los establecimientos: condiciones de los establecimientos y qué tan lejos se encuentran. Además, es importante su tamaño (capacidad) y su capacidad, así como el cupo en los mismos.
 
 7. La oferta educativa: brechas en la formación, lo privado, la existencia de becas, la cobertura pública y oficial en áreas rurales.
 
@@ -212,19 +212,46 @@ El análisis de las transcripciones ha permitido esclarecer tendencias relevante
 8. El entorno y oferta de formación.
 
 
-## Marco conceptual
+## Marco teórico
 
-Los hallazgos del diagnóstico participativo de jóvenes (USAID, 2015) y del ejercicio de autodiagnóstico (USAID, 2016) son congruentes con algunas de las causas de la deserción, no-continuidad o la no-matriculación en año encontradas consistentemente en estudios en la literatura sobre el tema. En general, la edad y el sexo, el embarazo temprano y la pobreza son los factores que aparecen con más frecuencia en los estudios (Zuilkowski & Dubeck, 2016). Quizás la estimación del ingreso del hogar es la variable más asociada en estudios con diversas formas de acceso a escolaridad de una persona, incluso para el caso de Guatemala (Behrman & Knowles, 1997) y generalmente en estos estudios para los hogares más pobres el ingreso resulta decisivo, mientras que para hogares arriba de la línea de pobreza entran en juego otras variables e interacciones. Alternativamente, otras variables representativas de la riqueza a largo plazo del hogar diferentes del ingreso, muestran resultados similares pero más robustos en estudios de
-varios países (Filmer & Pritchet, 2009).
+Los hallazgos del diagnóstico participativo de jóvenes (USAID, 2015) y del ejercicio de autodiagnóstico (USAID, 2016) son congruentes con algunas de las causas de la deserción, no-continuidad o la no-matriculación en año encontradas consistentemente en estudios en la literatura sobre el tema. En general, la edad y el sexo, el embarazo temprano y la pobreza son los factores que aparecen con más frecuencia en los estudios (Zuilkowski, Jukes & Dubeck, 2016). Quizás la estimación del ingreso del hogar es la variable más asociada en estudios con diversas formas de acceso a escolaridad de una persona, incluso en el caso de Guatemala (Behrman & Knowles, 1997) y generalmente en estos estudios para los hogares más pobres el ingreso resulta decisivo, mientras que para hogares arriba de la línea de pobreza entran en juego otras variables e interacciones. Alternativamente, otras variables representativas de la riqueza a largo plazo del hogar diferentes del ingreso, muestran resultados similares pero más robustos en estudios de varios países (Filmer & Pritchet, 2009).
 
-Los hallazgos del diagnóstico son congruentes con hallazgos a nivel mundial. Por ejemplo, la Iniciativa Global por los Niños Fuera de la Escuela de UNICEF y UNESCO, que incluye a Guatemala[^1] ha identificado cinco barreras a la educación alrededor del mundo: vivir en zonas violentas o de conflicto; las asociaciones culturales altamente arraigadas con uno u otro sexo definen quién va y quién se queda en la escuela; la dependencia de los hogares de mano de obra infantil compiten con las aspiraciones educativas que pueda tener la familia; muchos niños son marginados por sistemas educativos en idiomas que no hablan ni entienden; y finalmente la falta de datos sobre la cantidad y necesidades de los niños con discapacidades constituyen barreras importantes a la educación (Hawke, 2015). Es posible aproximar ciertas
-variables relacionadas con estas barreras también en Encovi 2014.
+También existe un vínculo de las barreras identificadas en Guatemala (USAID, 2015) con hallazgos a nivel mundial. Por ejemplo, la Iniciativa Global por los Niños Fuera de la Escuela de UNICEF y UNESCO (Hawke et al., 2015), que incluye a Guatemala[^3] ha identificado cinco barreras a la educación alrededor del mundo: vivir en zonas violentas o de conflicto; las asociaciones culturales altamente arraigadas con uno u otro sexo definen quién va y quién se queda en la escuela; la dependencia de los hogares de mano de obra infantil compiten con las aspiraciones educativas que pueda tener la familia; muchos niños son marginados por sistemas educativos en idiomas que no hablan ni entienden; y finalmente la falta de datos sobre la cantidad y necesidades de los niños con discapacidades constituyen barreras importantes a la educación (Hawke, 2015).  
 
-Además de estas situaciones directas, las perspectivas de lo que la educación formal, técnica o no formal pueden hacer para mejorar las condiciones en un futuro también desempeñan un papel en la decisión de continuar o no continuar en la escuela. Esto se agrupa en estudios que tratan de cuantificar econométricamente los retornos económicos de un año adicional de formación y si esto importa para la decisión de asistir o continuar estudiando[^2]. En general, no hay mayor duda que un año más de educación o un nivel educativo mayor traiga mejoras económicas para quiénes lo obtienen, pero es interesante que la evidencia muestra que esto importa a las personas no pobres, mientras que aquellas personas debajo de la línea de pobreza esto entra en conflicto con el costo de oportunidad inmediata (pérdida de ingresos del niño, adolescente o adulto trabajador por estudiar) volviendo esta relación negativa (Kingdon & Theopold, 2006), algo que también deberá tomarse en cuenta al diseñar el estudio multivariado.  
+A continuación se profundiza sobre las barreras prioritarias para el proyecto leer y aprender:  los ingresos;  la maternidad a temprana edad;  el costo sombra de la asistencia a la escuela;  el apoyo y educación de los padres;  la percepción sobre los beneficios económicos de contar con más años de escolaridad;  la percepción sobre los beneficios económicos de contar con formación técnica o formación no formal;  el trabajo remunerado o el trabajo familiar no remunerado.
+
+### Los ingresos, los costos sombra y el trabajo familiar remunerado y no remunerado
+
+Además de la obvia relación inversa con los costos de la educación, el ingreso de la familia ofrece múltiples razones por las cuales puede influir en la decisión de enviar a los niños a la escuela. Behrman y Knowles (1997) explican que las familias que tienen mayores ingresos, pueden hacer inversiones complementarias a la educación, como tutorías y una mejor alimentación, que dan una ventaja a esos niños y aumentan los beneficios de la educación en el futuro. Asimismo, los padres de mayores ingresos pueden estar mejor educados y para ellos puede representar un menor sacrificio ayudar a los hijos con las tareas, por ejemplo. De igual manera, los padres con mejores ingresos pueden ser más tolerantes al riesgo de eventos fortuitos, de manera que consideren que en un futuro incierto podrán seguir mandando a la escuela a los niños, haciendo más fácil de decidir inscribir a los niños en el presente. También es importante resaltar que en situaciones de información imperfecta, puede que los padres de mejores ingresos tengan mayor certeza de cómo podrán ayudar a los niños a conseguir oportunidades de hacer efectivos los frutos de su educación a través de conexiones o experiencias propias positivas en el mercado laboral o en el ámbito empresarial.
+
+Independientemente de los mecanismos a través de los cuales el ingreso 
+
+
+
+
+
+
+
+
+Como explica Webbing, Smits y De Jong (2011) enviar a los niños a la escuela tiene costos altos en la actualidad, pues aunque cada vez es más extendida la gratuidad en las matrículas, los padres tienen que pagar uniformes o libros, alimentación y transporte, entre otros. Por esa razón, la educación para los individuaos se encuentra en competencia con la participación en el mercado laboral, en el trabajo familiar remunerado, en el trabajo familiar no remunerado o en una combinación de todas estas alternativas.
+
+
+
+
+Además de estas situaciones directas, las perspectivas de lo que la educación formal, técnica o no formal pueden hacer para mejorar las condiciones en un futuro también desempeñan un papel en la decisión de continuar o no continuar en la escuela. Esto se agrupa en estudios que tratan de cuantificar econométricamente los retornos económicos de un año adicional de formación y si esto importa para la decisión de asistir o continuar estudiando[^4]. En general, no hay mayor duda que un año más de educación o un nivel educativo mayor traiga mejoras económicas para quiénes lo obtienen, pero es interesante que la evidencia muestra que esto importa a las personas no pobres, mientras que aquellas personas debajo de la línea de pobreza esto entra en conflicto con el costo de oportunidad inmediato (pérdida de ingresos del niño, adolescente o adulto trabajador por estudiar) volviendo esta relación negativa (Kingdon & Theopold, 2006).
+
+[^3]: En el reporte de esta iniciativa (Hawke, 2015) se reconoce a
+    Guatemala como uno de 42 países que han cortado por la mitad la
+    cantidad de niños fuera de la escuela entre 2000 y 2012.
+
+[^4]: Estos estudios se agrupan en la tradición de las funciones de
+    ingresos de Mincer que explica los ingresos como una función de años
+    de escolaridad y la experiencia en el mercado laboral (Mincer 1958,
+    1974;Heckman, Lochner, & Todd, 2003).
 
 También existen patrones de largo plazo e interacciones entre varios factores que llevan a que las razones aisladas mencionadas anteriormente terminen en abandono o no-asistencia a la educación o formación, pues el abandono escolar difícilmente puede ser atribuido a un evento o impacto  articular (Hunt, 2008. Aproximaciones a estas interacciones pueden tener contrapartes dentro de ENCOVI que permitan hacer algunas inferencias sobre qué sí es una razón para regresar a la escuela, la retención, el papel de la discapacidad, el abandono escolar en centros privados, factores de motivación, el papel de los maestros. También es posible identificar algunos de los indicadores de riesgo de abandonar la formación en un futuro (Hunt, 2008) como variables aproximadas dentro de ENCOVI 2014: la repitencia, el desempeño escolar insuficiente, los niños que se matriculan de mayor edad a la que corresponde y la ausencia regular o por lapsos de la escuela o la formación técnica o formal.
 
-## Enfoque
+## Modelo conceptual
 
 El estudio multivariado tendrá una forma que puede ser expresada de la
 siguiente manera y que será consignado en el Documento conceptual de
@@ -456,81 +483,7 @@ entorno, situaciones relativas a la seguridad, la alimentación, la
 repitencia, la percepción de los centros educativos y otros que serán
 consignados en el documento Conceptual.
 
-Planificación
-=============
 
-Contractualmente, la consultoría va del 27 de octubre de 2016 al 15 de
-enero del mismo año y contempla los siguientes productos en las fechas
-estipuladas contractualmente.
-
-  Producto                                                                              Fecha contractual
-  ------------------------------------------------------------------------------------- -------------------------
-  Plan de trabajo de la consultoría y cronograma.                                       16 de noviembre de 2016
-  Informe de visitas y análisis de las entrevistas.                                     05 de diciembre de 2016
-  Documento conceptual de Barreras de Acceso a Jóvenes fuera de la Escuela.             05 de diciembre de 2016
-  Borrador del documento de sistematización.                                            23 de diciembre de 2016
-  Informe de consultoría (documento en formato editable y presentación de resultados)   15 de enero de 2016
-
-Fases
------
-
-**Fase 1**
-
--   Elaboración de plan de trabajo de la consultoría.
-
--   Recopilación de insumos para marco conceptual de Barreras de Acceso
-    a Jóvenes fuera de la escuela.
-
--   Elaboración de un documento conceptual de barreras de acceso a
-    oportunidades educativas y de formación laboral consolidando un
-    marco conceptual a partir de los insumos que se entreguen.
-
-**Fase 2 **
-
--   Análisis exploratorio de datos, utilizando ENCOVI 2014.
-
--   Preparación de modelos multivariados, utilizando ENCOVI 2014.
-
--   Análisis de resultados de modelos multivariados, utilizando
-    ENCOVI 2014.
-
--   Preparación de informe de resultados del análisis multivariado,
-    utilizando ENCOVI 2014.
-
-**Fase 3 **
-
--   Elaboración de instrumentos de entrevista para recoger las
-    impresiones de socios y jóvenes beneficiarios respecto a las
-    barreras planteadas, con apoyo de asesora de monitoreo.
-
--   Elaboración de cronograma para visita a redes de socios, entidades
-    subvencionadas y jóvenes que están siendo apoyados en coordinación
-    con el equipo regional.
-
-<!-- -->
-
--   Realizar visitas a municipios para entrevistas con actores clave de
-    las redes de socios.
-
--   Informe de visitas y análisis de las entrevistas.
-
--   Reunión para entrega y discusión del documento conceptual.
-
-**Fase 4 **
-
--   Reunión con equipo técnico nacional
-
--   Sistematización de la información recabada durante las tres
-    fases previas.
-
--   Elaboración de un Power Point con los contenidos del Marco
-    Conceptual de Barreras según la imagen del proyecto USAID Leer
-    y Aprender. Se le entregará el material necesario.
-
--   Presentación del informe de consultoría conteniendo el documento
-    conceptual de Barreras de Acceso para JFE.
-
-Cronograma
 ==========
 
 
@@ -559,8 +512,8 @@ education: Evidence from Ghana. The Journal of International Trade &
 Economic Development, 24(2), 173–200.
 http://doi.org/10.1080/09638199.2014.881907
 
-Hawke, A. (2015). Fixing the Broken Promise of Education for All:
-Findings from the Global Initiative on Out-of-School Children. UNICEF.
+Hawke, A.; Bell, S.; Hattori, H.; Huebler, F.; Motivans, A.; & Waltham, M. (2015). Barriers and policy solutions. En UIS & UNICEF (Eds) _Fixing the Broken Promise of Education for All:
+Findings from the Global Initiative on Out-of-School Children._ Montreal, Quebec: UIS & UNICEF.
 Recuperado a partir de http://eric.ed.gov/?id=ED560017
 
 Heckman, J. J., Lochner, L. J., & Todd, P. E. (2003). Fifty Years of
