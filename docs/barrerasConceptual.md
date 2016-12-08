@@ -34,12 +34,9 @@ Chiquimula, Santa Lucía La Reforma, Momostenango, San Bartolo Aguas
 Calientas y Totonicapán cabecera y Quiché, San Pedro Jocopilas y
 Joyabaj.
 
-El componente Educación para el empleo y aprendizaje para la vida
-realizó estudios que identificaron las razones más constantes que
-generan el abandono de la escuela por parte de niños y jóvenes. Mediante
-la información recabada en el un diagnóstico participativo de jóvenes y los estudios de capital social en cada municipio se identificaron barreras que limitan la permanencia y la continuidad de sus estudios a los jóvenes que se encuentran fuera de la escuela.
+Dentro de esta iniciativa se llevaron a cabo estudios que identificaron las razones más constantes que generan el abandono de la escuela por parte de niños y jóvenes. Mediante la información recabada en el un diagnóstico participativo de jóvenes y los estudios de capital social en cada municipio se identificaron barreras que limitan la permanencia y la continuidad de los estudios a los jóvenes que se encuentran fuera de la escuela.
 
-El Diagnóstico participativo de jóvenes del proyecto USAID Leer y Aprender (USAID, 2015) caracteriza a la población en el área de intervención del proyecto USAID Leer y Aprender describiendo aspectos del entorno familiar, la educación, las actividades económicas, la migración, la salud sexual y reproductiva, la participación ciudadana, el capital social, la vulnerabilidad y el riesgo social, la comunicación, entre otros. Entre los hallazgos más importantes se encuentran:
+El diagnóstico participativo de jóvenes del proyecto USAID Leer y Aprender (USAID, 2015) caracteriza a la población en el área de intervención del proyecto y describe aspectos del entorno familiar, la educación, las actividades económicas, la migración, la salud sexual y reproductiva, la participación ciudadana, el capital social, la vulnerabilidad y el riesgo social y la comunicación, entre otros. Entre los hallazgos más importantes se encuentran:
 
 1. Cuatro de cada diez jóvenes entre 15 y 24 años de edad, están desmotivados para participar.
 
@@ -82,19 +79,19 @@ El Diagnóstico participativo de jóvenes del proyecto USAID Leer y Aprender (US
     pequeños (Santa Bárbara, Concepción Tutuapa, Santa María Chiquimula,
     Santa Lucía La Reforma).
 
-No obstante existen diferentes elementos sociales, culturales e intelectuales que afectan las decisiones de educación, estos hallazgos sugieren que en el estadio de desarrollo en que se encuentran las comunidades analizadas, el balance entre costos económicos de la educación y sus beneficios percibidos tienen un peso sustancial en esas decisiones.
+Existen diferentes elementos sociales, culturales e intelectuales que afectan las decisiones de educación. No obstante, estos hallazgos sugieren que en el estadio de desarrollo en que se encuentran las comunidades analizadas, el balance entre costos económicos de la educación y los beneficios percibidos tienen un peso sustancial en dichas decisiones.
 
-El proyecto **Leer y Aprender** ha identificado barreras que dificultan que los jóvenes se inscriban, asistan y se mantengan en la escuela o en la formación para el trabajo. En este documento se busca dar sustento téorico y empírico a esas barreras, contrastándolas con hallazgos de estudios científicos e institucionales. Partiendo de conclusiones de ese proceso se propone un marco analítico que pueda servir como base para estudios empíricos y para delimitar áreas de acción para la implementación de soluciones.
+El proyecto **Leer y Aprender** ha identificado barreras que dificultan que los jóvenes se inscriban, asistan y se mantengan en la escuela o en la formación para el trabajo. Aquí se busca dar sustento téorico a esas barreras, contrastándolas con hallazgos de estudios científicos e institucionales. Partiendo de conclusiones de ese proceso se propone un marco analítico que pueda servir como base para estudios empíricos y para delimitar áreas de acción para la implementación de soluciones.
 
 ## Antecedentes 
 
 ### Barreras prioritarias identificadas por el proyecto USAID Leer y Aprender
 
-El diagnóstico participativo de jóvenes desarrollado por el proyecto Leer y Aprender (USAID, 2015) identifica barreras, además de otras variables representativas de la asistencia o no-asistencia a la escuela o a un centro de formación técnica o no formal. De manera cuantitativa, el diagnóstico identifica, en orden de importancia, lo económico, el matrimonio, las razones personales y el clima escolar como las razones para dejar de estudiar identificadas por la mayoría de los encuestados, seguidas del acceso, la discriminación y otros con menor mención como se muestra en la **tabla**.
+El diagnóstico participativo de jóvenes desarrollado por el proyecto Leer y Aprender (USAID, 2015) identifica barreras, además de otras variables representativas de la asistencia o no-asistencia a la escuela o a un centro de formación técnica o no formal. De manera cuantitativa, el diagnóstico identifica, en orden de importancia, lo económico, el matrimonio, las razones personales y el clima escolar como las razones para dejar de estudiar identificadas por la mayoría de los encuestados, seguidas del acceso, la discriminación y otros con menor mención como se muestra en la **tabla 1**.
 
 **[Tabla 1. Razones para dejar de estudiar, por sexo y etnia (pág 22, USAID, 2016)]**  
 
-A través de una fase cualitativa y técnicas proyectivas el diagnóstico (USAID, 2016) construye un marco de apreciación más amplio que da sustento a las razones mencionadas anteriormente y la relación de la educación con que "le vaya bien en la vida" al individuo. Esta construcción permite evidenciar las barreras prioritarias para el área de influencia como:
+A través de una fase cualitativa y técnicas proyectivas el diagnóstico (USAID, 2016) construye un marco de apreciación más amplio que da sustento a las razones mencionadas anteriormente y la relación de la educación con que "le vaya bien en la vida" al individuo. Esta concatenación de lo cualitativo con lo cuantitativo permite destacar como barreras:
 
 1.  Los ingresos.
 
@@ -112,9 +109,9 @@ A través de una fase cualitativa y técnicas proyectivas el diagnóstico (USAID
 
 7.  El trabajo remunerado o el trabajo familiar no remunerado.
 
-### Las percepciones de los guatemaltecos sobre las barreras de acceso a la educación
+### Las percepciones sobre las barreras de acceso a la educación
 
-A través de una serie de eventos participativos, se indagó sobre lo que los guatemaltecos en 9 departamentos del país fuera del área de influencia consideraban como barreras de acceso a la educación y barreras a la formación laboral y emprendimiento. En total se obtuvieron 193 respuestas para el primer tema y 121 para el segundo. Un análisis de una transcripción de esas respuestas permitió, por una parte, establecer la frecuencia de la mención de ciertos conceptos[^2], y por otra, determinar la independencia relativa entre esos conceptos, así como qué tanto se relacionan con con otros términos menos frecuentes. Este proceso permitió aislar temas específicos relevantes entre las respuestas sobre ambos tipos de barreras en la información cualitativa con un fundamento cuantitativo[^3].
+A través de una serie de eventos participativos, se indagó sobre lo que los guatemaltecos en 9 departamentos del país fuera del área de influencia consideraban como barreras de acceso a la educación y barreras a la formación laboral y emprendimiento. En total se obtuvieron 193 respuestas para el primer tema y 121 para el segundo. Un análisis de una transcripción de esas respuestas permitió, por una parte, establecer la frecuencia de la mención de ciertos conceptos[^2], y por otra, determinar la independencia relativa entre esos términos, así como qué tanto se relacionan con con otros términos menos frecuentes. Este proceso permitió aislar temas específicos relevantes entre las respuestas sobre ambos tipos de barreras en la información cualitativa con un fundamento cuantitativo[^3].
 
 [^2]: Aunque estrictamente la técnica utilizada analice la ocurrencia de palabras y no de conceptos, un trabajo de preparación reemplazó ciertas palabras que se refieren al mismo concepto con una misma palabra.
 
@@ -125,15 +122,15 @@ La figura 1 muestra la frecuencia de palabras que aparecen con mayor frecuencia 
 
 **[Figura 1. Frecuencia de términos relacionados con las barreras de acceso a la educación]**
 
-Si bien todos los términos en el diagrama son relevantes, siete términos se destacan y evidencian lo económico, los establecimientos (educativos), la familia, la formación, los padres, los programas, y el trabajo como los aspectos más relevantes al hablar de barreras de acceso a la eduación. El análisis de conglomerados[^4], optando por 8 grupos permitió determinar el mismo número de temas en los cuales esas palabras están relacionadas. La figura 2 muestra estos grupos y se resalta su separación a ocho niveles a través de recuadros rojos. 
+Si bien todos los términos en el diagrama son relevantes, se destacan y evidencian lo económico, los establecimientos (educativos), la familia, la formación, los padres, los programas, y el trabajo como los aspectos más relevantes al hablar de barreras de acceso a la educación. El análisis de conglomerados[^4], optando por 8 grupos permitió determinar el mismo número de temas en los cuales esas palabras están relacionadas. La figura 2 muestra estos grupos y se resalta su separación a ocho niveles a través de recuadros rojos. 
 
 [^4]: Se utilizó el método de Ward para hacer grupos de palabras estadísticamente independientes.
 
 **[Figura 2. Grupos de palabras estadísticamente independientes relacionadas con barreras de acceso a la educación**
 
-El análisis de percepciones respalda la importancia de temas identificados por el diagnósitico participativo (USAID, 2015) en departamentos de Guatemala fuera del área de intervención del proyecto. Se ven como relevantes el trabajo, la distancia de los establecimientos educativos, la formación de los padres, lo económico, la familia, y una serie de descriptores del entorno, como la cobertura de la oferta educativa.
+El análisis de percepciones respalda la importancia de temas identificados por el diagnóstico participativo del proyecto (USAID, 2015) en departamentos de Guatemala fuera del área de intervención. Se ven como relevantes el trabajo, la distancia de los establecimientos educativos, la formación de los padres, lo económico, la familia, y una serie de palabras descriptivas del entorno, como la cobertura de la oferta educativa.
 
-Para dar contexto a los términos que aparecen con más frecuencia,se hizo un análisis de correlación en una matriz de distancias de las palabras en las frases en que los participantes las utilizaron. De esta forma se identificó términos cerca de los cuáles aparecen normalmente las palabras más frecuentes aparecen. Esto permitió construir temáticas relevantes con fundamento cuantitativo.
+Para dar contexto a los términos que aparecen con más frecuencia,se hizo un análisis de correlación en una matriz de distancias de las palabras en las frases en que los participantes las utilizaron. De esta forma se identificó términos cerca de los cuáles aparecen normalmente las palabras más frecuentes. Esto permitió construir temáticas relevantes con fundamento cuantitativo.
 
 El cuadro 2 (a-h) muestran las correlaciones de ocho palabras[^4] más frecuentes en la figura 1 con otros términos, es decir el porcentaje de aparición conjunta de esas palabras en las respuestas dadas por los participantes.
 
@@ -145,11 +142,11 @@ Por ejemplo, en el caso de la palabra "familia" (2a), es posible identificar com
 
 Otros temas que son fáciles de identificar entre las barreras mencionadas por los participantes son la situación o el problema económico (2c) y la existencia de un trabajo (2d).
 
-Respecto de los establecimientos educativos (2e) es posible identificar las condiciones de los mismos, su tamaño y qué tan lejanos se encuentran como barreras de acceso a la educación. También en otro eje, es notable que la disponibilidad de los mismos y los cupos en ellos sean temas de interés.
+Respecto de los establecimientos educativos (2e) es posible identificar las condiciones de los mismos, su tamaño y qué tan lejanos se encuentran como barreras de acceso a la educación. También en otro eje, es notable que la disponibilidad de los establecimientos y los cupos en ellos sean temas de interés.
 
 Adicionalmente, es posible identificar temas del entorno o de la oferta educativa que también son relevantes como barreras de acceso a la educación entre los participantes.  Resultan de interés las brechas en la formación (2g), la existencia de formación privada y la existencia de programas de becas o extraescolares (2g).
 
-Finalmente, vemos la correlación de la palabra "cobertura" con la palabra "nula", así como la vinculación con "área rural", "pública" y "oficial", lo cual sugiere que existen retos en la oferta educativa que los participantes identifican como barreras de acceso a la educación de manera consistente. Como se verá más adelante, esto es congruente con experiencias de otros países.
+Finalmente, vemos la correlación de la palabra "cobertura" con la palabra "nula", así como la vinculación con "área rural", "pública" y "oficial", lo cual sugiere que existen retos en la oferta educativa que los participantes identifican como barreras de acceso a la educación de manera consistente.
 
 El mismo análisis se condujo para las barreras de formación laboral y emprendimiento. La figura 3 muestra las palabras más relevantes en este tema. La palabra "económico" es mencionada con mayor frecuencia entre los participantes, lo cual es consistente con el diagnóstico participativo de jóvenes (USAID, 2015).  
 
@@ -159,7 +156,7 @@ A un nivel de ocho grupos, es posible ver en la figura 3 que se puede pensar com
 
 **[Figura 4. Grupos de palabras estadísticamente independientes relacionadas con barreras a la formación laboral y emprendimiento]**
 
-Al indagar sobre los términos relacionados con las palabras más frecuentes, lo cual se muestra en el cuadro 3, es posible confirmar que los recursos económicos  se constituyen como un tema relevante por si solo  para los participantes.
+Al indagar sobre los términos relacionados con las palabras más frecuentes, lo cual se muestra en el cuadro 3, es posible confirmar que los recursos económicos  se constituyen como el tema más relevante de manera individual para los participantes.
 
 **Cuadro 3. Términos correlacionados con las palabras más frecuentes en barreras a la formación laboral y emprendimiento (porcentaje de aparición conjunta en respuestas)**
 
@@ -167,7 +164,7 @@ Respecto de la palabra "padres" (3a) se pueden observar vínculos con "interés"
 
 Es clara la relación del tema de los padres con "familia" (3b), palabra para la cual las correlaciones importantes denotan temas como el apoyo familiar, lo numeroso de la familia y la desintegración como elementos que determinan el acceso a la formación laboral y empresarial.
 
-Aunque ya se mencionó lo económico, un tema que surge por primera vez en esta exposición es el acceso a créditos (3c), lo cual es un tema que es muy relevante en la literatura económica. Respecto de lo económico, también resulta relevante la falta de oportunidades de trabajo (3h), lo cual no hace atractivo este tipo de formación pues es difícil de aplicar.
+Aunque ya se mencionó lo económico, un tema que surge por primera vez en esta exposición es el acceso a créditos (3c), lo cual es relevante en la literatura económica. Respecto de lo económico, también resulta relevante la falta de oportunidades de trabajo (3h), lo cual no hace atractivo este tipo de formación pues es difícil de aplicar el conocimiento adquirido.
 
 Respecto de la "formación" (3e) es importante reconocer la gratuidad como factor importante, así como la formación de los maestros como una barrera. 
 
@@ -214,50 +211,91 @@ El análisis de las transcripciones ha permitido esclarecer tendencias relevante
 
 ## Marco teórico
 
-Los hallazgos del diagnóstico participativo de jóvenes (USAID, 2015) y del ejercicio de autodiagnóstico (USAID, 2016) son congruentes con algunas de las causas de la deserción, no-continuidad o la no-matriculación en año encontradas consistentemente en estudios en la literatura sobre el tema. En general, la edad y el sexo, el embarazo temprano y la pobreza son los factores que aparecen con más frecuencia en los estudios (Zuilkowski, Jukes & Dubeck, 2016). Quizás la estimación del ingreso del hogar es la variable más asociada en estudios con diversas formas de acceso a escolaridad de una persona, incluso en el caso de Guatemala (Behrman & Knowles, 1997) y generalmente en estos estudios para los hogares más pobres el ingreso resulta decisivo, mientras que para hogares arriba de la línea de pobreza entran en juego otras variables e interacciones. Alternativamente, otras variables representativas de la riqueza a largo plazo del hogar diferentes del ingreso, muestran resultados similares pero más robustos en estudios de varios países (Filmer & Pritchet, 2009).
+Los hallazgos del diagnóstico participativo de jóvenes (USAID, 2015) y del ejercicio de autodiagnóstico (USAID, 2016) son congruentes con algunas de las causas de la deserción, no-continuidad o la no-matriculación en año encontradas consistentemente en estudios en la literatura sobre el tema. En general, la edad y el sexo, el embarazo temprano y la pobreza son los factores que aparecen con más frecuencia en los estudios (Zuilkowski, Jukes & Dubeck, 2016). Quizás la estimación del ingreso del hogar es la variable más asociada en estudios con diversas formas de acceso a escolaridad de una persona, incluso en el caso de Guatemala (Behrman & Knowles, 1997) y generalmente en estos estudios para los hogares más pobres el ingreso resulta decisivo, mientras que para hogares arriba de la línea de pobreza entran en juego otras variables e interacciones. Alternativamente, otras variables representativas de la riqueza a largo plazo del hogar diferentes del ingreso resultan también relevantes (Filmer & Pritchet, 2009).
 
-También existe un vínculo de las barreras identificadas en Guatemala (USAID, 2015) con hallazgos a nivel mundial. Por ejemplo, la Iniciativa Global por los Niños Fuera de la Escuela de UNICEF y UNESCO (Hawke et al., 2015), que incluye a Guatemala[^3] ha identificado cinco barreras a la educación alrededor del mundo: vivir en zonas violentas o de conflicto; las asociaciones culturales altamente arraigadas con uno u otro sexo definen quién va y quién se queda en la escuela; la dependencia de los hogares de mano de obra infantil compiten con las aspiraciones educativas que pueda tener la familia; muchos niños son marginados por sistemas educativos en idiomas que no hablan ni entienden; y finalmente la falta de datos sobre la cantidad y necesidades de los niños con discapacidades constituyen barreras importantes a la educación (Hawke, 2015).  
-
-A continuación se profundiza sobre las barreras prioritarias para el proyecto leer y aprender:  los ingresos;  la maternidad a temprana edad;  el costo sombra de la asistencia a la escuela;  el apoyo y educación de los padres;  la percepción sobre los beneficios económicos de contar con más años de escolaridad;  la percepción sobre los beneficios económicos de contar con formación técnica o formación no formal;  el trabajo remunerado o el trabajo familiar no remunerado.
-
-### Los ingresos, los costos sombra y el trabajo familiar remunerado y no remunerado
-
-Además de la obvia relación inversa con los costos de la educación, el ingreso de la familia ofrece múltiples razones por las cuales puede influir en la decisión de enviar a los niños a la escuela. Behrman y Knowles (1997) explican que las familias que tienen mayores ingresos, pueden hacer inversiones complementarias a la educación, como tutorías y una mejor alimentación, que dan una ventaja a esos niños y aumentan los beneficios de la educación en el futuro. Asimismo, los padres de mayores ingresos pueden estar mejor educados y para ellos puede representar un menor sacrificio ayudar a los hijos con las tareas, por ejemplo. De igual manera, los padres con mejores ingresos pueden ser más tolerantes al riesgo de eventos fortuitos, de manera que consideren que en un futuro incierto podrán seguir mandando a la escuela a los niños, haciendo más fácil de decidir inscribir a los niños en el presente. También es importante resaltar que en situaciones de información imperfecta, puede que los padres de mejores ingresos tengan mayor certeza de cómo podrán ayudar a los niños a conseguir oportunidades de hacer efectivos los frutos de su educación a través de conexiones o experiencias propias positivas en el mercado laboral o en el ámbito empresarial.
-
-Independientemente de los mecanismos a través de los cuales el ingreso 
-
-
-
-
-
-
-
-
-Como explica Webbing, Smits y De Jong (2011) enviar a los niños a la escuela tiene costos altos en la actualidad, pues aunque cada vez es más extendida la gratuidad en las matrículas, los padres tienen que pagar uniformes o libros, alimentación y transporte, entre otros. Por esa razón, la educación para los individuaos se encuentra en competencia con la participación en el mercado laboral, en el trabajo familiar remunerado, en el trabajo familiar no remunerado o en una combinación de todas estas alternativas.
-
-
-
-
-Además de estas situaciones directas, las perspectivas de lo que la educación formal, técnica o no formal pueden hacer para mejorar las condiciones en un futuro también desempeñan un papel en la decisión de continuar o no continuar en la escuela. Esto se agrupa en estudios que tratan de cuantificar econométricamente los retornos económicos de un año adicional de formación y si esto importa para la decisión de asistir o continuar estudiando[^4]. En general, no hay mayor duda que un año más de educación o un nivel educativo mayor traiga mejoras económicas para quiénes lo obtienen, pero es interesante que la evidencia muestra que esto importa a las personas no pobres, mientras que aquellas personas debajo de la línea de pobreza esto entra en conflicto con el costo de oportunidad inmediato (pérdida de ingresos del niño, adolescente o adulto trabajador por estudiar) volviendo esta relación negativa (Kingdon & Theopold, 2006).
+También existe un vínculo de las barreras identificadas en Guatemala (USAID, 2015, 2016) con hallazgos a nivel mundial. Por ejemplo, la Iniciativa Global por los Niños Fuera de la Escuela de UNICEF y UNESCO (Hawke et al., 2015), que incluye a Guatemala[^3] ha identificado cinco barreras a la educación alrededor del mundo: vivir en zonas violentas o de conflicto; las asociaciones culturales altamente arraigadas con uno u otro sexo definen quién va y quién se queda en la escuela; la dependencia de los hogares de mano de obra infantil compiten con las aspiraciones educativas que pueda tener la familia; muchos niños son marginados por sistemas educativos en idiomas que no hablan ni entienden; y finalmente la falta de datos sobre la cantidad y necesidades de los niños con discapacidades constituyen barreras importantes a la educación (Hawke, 2015). 
 
 [^3]: En el reporte de esta iniciativa (Hawke, 2015) se reconoce a
     Guatemala como uno de 42 países que han cortado por la mitad la
-    cantidad de niños fuera de la escuela entre 2000 y 2012.
+    cantidad de niños fuera de la escuela entre 2000 y 2012. 
+
+A continuación se profundiza sobre las barreras prioritarias para el proyecto leer y aprender:  los ingresos;  la maternidad a temprana edad;  el costo sombra de la asistencia a la escuela;  el apoyo y educación de los padres;  la percepción sobre los beneficios económicos de contar con más años de escolaridad;  la percepción sobre los beneficios económicos de contar con formación técnica o formación no formal;  el trabajo remunerado o el trabajo familiar no remunerado.
+
+**Los ingresos**
+
+Además de la obvia relación inversa con los costos de la educación, el ingreso de la familia ofrece múltiples razones por las cuales puede influir en la decisión de enviar a los niños a la escuela. Las familias que tienen mayores ingresos pueden hacer inversiones complementarias a la educación, como tutorías y una mejor alimentación, que dan una ventaja a sus niños y aumentan los beneficios de la educación en el futuro (Behrman & Knowles, 1997). 
+
+Asimismo, los padres de mayores ingresos pueden estar mejor educados y para ellos puede representar un menor sacrificio ayudar a los hijos con las tareas, por ejemplo. De igual manera, los padres con mejores ingresos pueden ser más tolerantes al riesgo de eventos fortuitos, de manera que consideren que en un futuro incierto podrán seguir mandando a la escuela a los niños, haciendo más fácil de decidir inscribir a los niños en el presente (Behrman y Knowles, 1997). También es importante resaltar que en situaciones de información imperfecta, puede que los padres de mejores ingresos tengan mayor certeza de cómo podrán ayudar a los niños a conseguir oportunidades que les permitan hacer efectivos los frutos de su educación a través de conexiones o experiencias propias positivas en el mercado laboral o en el ámbito empresarial (Behrman y Knowles, 1997).
+
+Existen varios mecanismos a través de los cuales el ingreso tiene un impacto en la matriculación o en el desempeño escolar y hay una serie de estudios que muestran evidencia de esa relación. Por ejemplo, el ingreso del padre, de la familia o los gastos per cápita han mostrado explicar significativamente la asistencia escolar, la repitencia, los grados alcanzados, los días de escuela ausentes, las bajas notas, años de escolaridad, el desempeño escolar, la matriculación actual, el nivel de lectura, la matriculación tardía, el desempeño en matemática y lectura, los gastos en educación primaria y el abandono escolar en Bangladesh, Bolivia, Brasil, Costa de Marfil, Egipto, Ghana, Guatemala, India, Indonesia, Jamaica, Kenya, Malaysia, Mali, Nepal, Nicaragua, Pakistan, Paraguay, Perú, Sudáfrica, Taiwan, los Estados Unidos y la República Bolivariana de Venezuela, entre otros (Behrman & Knowles, 1997, p.2).
+
+Por su parte, los incrementos sostenidos en los niveles de ingresos de las familias de Vietnam en los años noventa explican la mayor parte de la baja en el trabajo infantil de ese país. En Filipinas, un incremento en las remesas familiares debido a cambios favorables en el tipo de cambio llevó a un incremento en las inversiones en capital humano y en el caso de México, la mejora en ingresos a las familias por el programa de transferencias condicionadas ha reducido el trabajo remunerado de mercado y ha aumentado la matriculación escolar (Carvalho, 2012).
+
+**Los costos y los beneficios de la educación**
+
+Para los jóvenes y sus familias, la decisión de asistir y mantenerse en la escuela o en un programa de formación para el trabajo o el emprendimiento es, en gran medida, el resultado de sopesar continuamente los costos de asistir a la escuela con los beneficios adicionales que pueden esperarse a futuro por contar con más años de educación.
+
+En la teoría de capital humano que da soporte a estas afirmaciones (Becker & Tomes, 1986), la educación representa una inversión cuyo propósito es maximizar los beneficios monetarios y no monetarios a lo largo de la vida. El nivel óptimo de educación a alcanzar es aquel que iguala los costos, incluyendo los intereses incurridos al endeudarse, con los beneficios de educarse. La decisión de asistir tiene entonces, una relación positiva con los beneficios y negativa con los costos (Takahashi, 2011).
+
+Si bien, los costos pueden ser directos, como en el caso de la inscripción o de las mensualidades de los establecimientos educativos privados o algunos públicos, e indirectos como el costo del transporte, el uniforme o los útiles escolares, también es posible identificar un costo de oportunidad que representa el valor que pierde la familia o el individuo por no dedicar tiempo a una actividad laboral o por no contribuir a las labores del hogar (Takahashi, 2011).
+
+Los beneficios de asistir a la escuela, entonces, se entienden como mejoras en ingresos que se pueden esperar en el futuro al contar con un año o nivel educativo más alto respecto de individuos similares que no cuentan con esa educación adicional. La evidencia empírica de este tema se agrupa en estudios que tratan de cuantificar econométricamente los retornos económicos de un año adicional de formación y si esto importa para la decisión de asistir o continuar estudiando[^4]. 
 
 [^4]: Estos estudios se agrupan en la tradición de las funciones de
     ingresos de Mincer que explica los ingresos como una función de años
     de escolaridad y la experiencia en el mercado laboral (Mincer 1958,
-    1974;Heckman, Lochner, & Todd, 2003).
+    1974; Heckman, Lochner, & Todd, 2003).
 
-También existen patrones de largo plazo e interacciones entre varios factores que llevan a que las razones aisladas mencionadas anteriormente terminen en abandono o no-asistencia a la educación o formación, pues el abandono escolar difícilmente puede ser atribuido a un evento o impacto  articular (Hunt, 2008. Aproximaciones a estas interacciones pueden tener contrapartes dentro de ENCOVI que permitan hacer algunas inferencias sobre qué sí es una razón para regresar a la escuela, la retención, el papel de la discapacidad, el abandono escolar en centros privados, factores de motivación, el papel de los maestros. También es posible identificar algunos de los indicadores de riesgo de abandonar la formación en un futuro (Hunt, 2008) como variables aproximadas dentro de ENCOVI 2014: la repitencia, el desempeño escolar insuficiente, los niños que se matriculan de mayor edad a la que corresponde y la ausencia regular o por lapsos de la escuela o la formación técnica o formal.
+
+**Trabajo remunerado y no remunerado**
+
+Enviar a los niños a la escuela tiene costos altos en la actualidad, pues aunque es cada vez más extendida la gratuidad en las matrículas, los padres tienen que pagar uniformes o libros, alimentación y transporte, entre otros (Webbing, Smits & De Jong, 2011).  Por esa razón, la educación para los individuos se encuentra en competencia con la participación en el mercado laboral, en el trabajo familiar remunerado, en el trabajo familiar no remunerado o en una combinación de todas estas alternativas.
+
+Existe evidencia empírica suficiente sobre el hecho que todas las formas de trabajo infantil afectan negativamente el desempeño escolar y la participación en el sistema educativo (Allais, 2009; Amin et al., Levinson, & Zibani, 2010; Levison & Moe, 1998). Esto incluye, tanto el trabajo infantil remunerado, como el trabajo no remunerado en el hogar y el trabajo dedicado al negocio familiar.
+
+No obstante, en lugares en que los niños tienen altas probabilidades de terminar empleados en la ocupación a la que se dedica el padre o en el negocio familiar, el participar en actividades agrícolas y el negocio familiar desde temprana edad puede ser considerado como educación por los padres (Cigno & Rosati, 2005; Emerson & Souza, 2007). Esto es particularmente decisivo en el caso de las familias en situación de pobreza, para quiénes la evidencia muestra que los retornos hipotéticos a la educación no importan y, al contrario, entran en conflicto con la pérdida de ingresos del niño, adolescente o adulto trabajador, volviendo negativa la relación entre matriculación en el sistema educativo y los potenciales beneficios de contar con más educación (Kingdon & Theopold, 2006). 
+
+Pero las familias debajo de la pobreza no son las únicas que enfrentan esa situación. Existe un fenómeno, sobre todo en las áreas rurales, denominado "paradoja de la riqueza" (Bhalotra & Heady, 2003) en que la posesión de tierra y ganado se ha encontrado asociada a mayores niveles de trabajo infantil (Goulart & Bedi, 2008). Esto sucede porque al contar con estos activos del hogar, es necesario atenderlos y esto requiere el apoyo de los hijos (Cigno et al. 2002)
+
+En otros casos, el no contar con servicios como electricidad y contar con una conexión de agua potable en la vivienda, hace que las labores del hogar requieran más esfuerzo, lo cual hace más necesaria la ayuda de los hijos (Guarcello Lyon, & Rosati, 2004). El no contar con agua en la vivienda, por ejemplo, ha mostrado estar relacionado con el trabajo infantil no remunerado de las niñas (Levison & Moe, 1998) y no contar con una refrigeradora en el hogar obliga a hacer las compras de alimentos diariamente, muchas veces delegando esta tarea a los niños (Hutton & Haller, 2004). Todo esto crea presiones para que los niños abandonen la escuela o simplemente nunca asistan.
+
+**El embarazo y los estereotipos culturales relacionados con ser mujer**
+
+Es común en muchas partes que haya una presión sobre las niñas de cierta edad para casarse, sea por tener menos dependientes o por situaciones en que el padre espera una compensación económica como dote. Eso contribuye a los embarazos a temprana edad que repercuten en los niveles de abandono escolar de las niñas y adolescentes como ha sido comprobado en diferentes estudios (Hallfors et al., 2011; Duflo et al. 2006; Were, 2007). 
+
+En diversos estudios, el embarazo opera de distintas maneras sobre la decisión de abandonar la escuela. Por ejemplo, en algunas situaciones, ha existido practicas institucionales que esperan que las niñas embarazadas abandonen la escuela cuando el embarazo es evidente a pesar que haya una clara política de no discriminación (Hunt 2008).
+
+En otros casos, las niñas toman la decisión de embarazarse pues es lo esperado en su círculo y porque hay una escasez de oportunidades sociales y económicas, que acompañada de las demandas domésticas y las desigualdades del sistema educativo hacen que las jóvenes tengan un desempeño escolar malo y se promueva la maternidad temprana (Grant & Hallman, 2006).
+
+Desde una perspectiva económica, los factores culturales que ocasionan una dificultad de acceso al mercado laboral para las mujeres hacen que los beneficios económicos de contar con educación percibidos por los padres sean menores para las niñas que para los varones en algunos ámbitos (Strauss & Thomas, 1995). En otros, la expectativa de que las jóvenes se casen a temprana edad hace que los padres piensen que los beneficios a la inversión en educación no se realizarán en el propio hogar, sino en el de la pareja y facilitan la decisión de no enviarlas a estudiar a temprana edad para que ayuden en el hogar mientras sean parte de él (Takahashi, 2011).
+
+Pasado el embarazo, es posible que las niñas regresen al sistema educativo. No obstante, la evidencia empírica sobre esto es limitada. Regresar al sistema educativo puede depender en gran manera de si la joven madre se hace cargo del bebé o si puede compartir o diferir la responsabilidad. Se ha encontrado que las jóvenes en cuyo hogar vive una mujer adulta tienen una probabilidad más alta de regresar al sistema educativo después de abandonarlo por embarazo (Grant & Hallman, 2006).
+
+No obstante, muchas de las jóvenes al mudarse a la casa de la nueva pareja se alejan de su centro de estudios lo cual determina su baja re-inscripción (Kaufmann, 2001). A la vez, hay evidencia de situaciones en que las niñas no regresan a la escuela por miedo al ridículo o al estigma social (Dunne & Leach, 2005). Finalmente, el embarazo simplemente pone presiones económicas adicionales sobre las jóvenes, que se apilan sobre los costos directos e indirectos de la educación. La vulnerabilidad económica ampliada por los riesgos del embarazo simplemente se convierte en otro determinante de la deserción escolar (Grant & Hallman, 2006).
+
+El embarazo no es la única preocupación para las mujeres. Consistentemente, alrededor del mundo las niñas tienen una probabilidad más alta de desempeñar responsabilidades importantes entre las tareas del hogar, como hacer la limpieza, cocinar y cuidar a los hermanos pequeños. Estas tareas afectan el desempeño escolar y la asistencia (Warrington & Kiragu, 2012; Zuikowski et al., 2016). Además, en situaciones adversas, es posible que las escuelas se conviertan en lugares hostiles para las niñas debido al acoso y abuso que pueden sufrir por parte de maestros y compañeros (Abuya et al., 2012).
+
+**Otros factores importantes**
+
+Un factor importante es la edad. Los niños que tienen una edad mayor a la que les corresponde para el grado en que están inscritos tienen una mayor probabilidad de abandonar la escuela (Bell & Huebler, 2015). Los adolescentes entran en una edad en la que el costo de oportunidad de mantenerse en la escuela es mayor, pues ya pueden acceder al mercado laboral y ayudar a complementar los ingresos familiares (Zuilkowski et al., 2016). En ciertos entornos culturales, para las niñas también crece la presión de casarse al alcanzar la adolescencia (Kingdon & Theopold, 2006).
+
+Además de los factores relacionados con el individuo, también es importante tomar en consideración elementos de la comunidad, el entorno y de la oferta educativa que afectan las decisiones de escolaridad. En ciertos ámbitos se ha encontrado una relación directa entre la inscripción y asistencia escolar y factores como la educación de los padres, el idioma que habla la familia, la etnicidad y otros factores de la comunidad, como el ambiente de seguridad (Guimbert et al., 2014).
+
+La educación de ambos padres es un importante factor en la decisión de inscribir a los niños en el sistema educativo. Los padres que han recibido alguna educación entienden el valor de la misma, así como de los beneficios de la misma y por eso pueden estar más motivados a mandar a los niños a la escuela (Breen & Goldthorpe, 1997; Mukherjee & Das, 2008). Específicamente, la educación de la madre puede desempeñar un papel muy importante en las decisiones de educación de las hijas mujeres, pues al haber alcanzado ciertos grados de educación, no solo ven posible que las niñas alcancen mejores niveles educativos, sino también entienden el valor de esa educación (Webbing, Smits, & DeJong, 2011).
+
+En otros ámbitos, también se han considerado importantes ciertas características del sistema educativo. El racional detrás de esta importancia es que mientras mejor sea la calidad de las escuelas, habrá una mejor percepción del valor de la educación que se traducirá en mayores tasas de matriculación en una comunidad (Takahashi, 2011). Por esa razón, también es importante encontrar medidas de la calidad educativa, como los años de experiencia promedio de los maestros, las horas de trabajo promedio de los maestros.
+
+Los efectos llamados "de vecindario" hacen que los padres sientan una presión social de mandar a los niños a la educación, a pesar de los costos que esta pueda representar cuando la mayoría de niños de la comunidad asiste. Esto generalmente se mide con variables como el consumo per cápita promedio en el menor nivel administrativo posible al que pertenece el individuo y la proporción de niños inscritos en el sistema educativo (Takahashi, 2011).
+
+ 
+
+
+
 
 ## Modelo conceptual
 
-El estudio multivariado tendrá una forma que puede ser expresada de la
-siguiente manera y que será consignado en el Documento conceptual de
-Barreras de Acceso a Jóvenes fuera de la Escuela:
+Comprendiendo esto, es posible identificar factores que incrementan dichos costos o mejoran los beneficios y que en su conjunto afectan la demanda de educación o formación de las familias. Para facilitar la comprensión, se hace una clasificación de estos factores siguiendo una convención relacionada con el tema (Takahashi, 2011).
 
-$$E_{\text{ihj}} = f\left( X_{i},H_{h},C_{\text{jt}},S_{\text{jt}} \right) + e_{\text{ihj}}$$
 
 En donde $E$ is una variable binaria que toma el valor 1 si la persona
 asiste a la formación (o tiene cierto nivel educativo, o cierta
@@ -281,255 +319,94 @@ maestros por contrato, etc.); finalmente $\mathbf{e}$ corresponde al
 error. Expresamente se tomarán precauciones para evitar problemas de
 endogeneidad y otras violaciones a los supuestos estadísticos.
 
-Esto permitirá cuantificar la importancia estadística de cada una de
-estas variables y priorizarlas en función de las posibles intervenciones
-que desarrolle el proyecto USAID Leer y Aprender y será consignado en el
-borrador del documento de sistematización y el informe final de esta
-consultoría.
-
-La ENCOVI 2014 provee una riqueza de información sobre varios temas,
-tanto de las personas como de su entorno, que podrán dar elementos y
-variables de control para el estudio complementadas con registros
-administrativos, como lo son la educación de los padres, el idioma
-materno, el tamaño del hogar, el estatus migratorio de miembros del
-hogar, las remesas familiares, los activos del hogar, el entorno de
-seguridad, la disponibilidad de centros educativos, la percepción de la
-calidad de la educación, los niveles de matriculación de la región, las
-brechas en matriculación entre hombres y mujeres, la salud, otros
-factores culturales, entre otros por evaluar en congruencia con la
-literatura del tema (e.g. Gyimah-Brempong & Asiedu, 2015; Guimbert,
-Miwa, & Nguyen, 2014; Takahashi, 2011; Mekheimar & Talaat, 2005).
-
-La ENCOVI 2014 contiene 54,822 personas en 11,536 hogares, los cuales
-representan a una población de 16,001,900 individuos. En la encuesta se
-encuentra información sobre 11,763 jóvenes (sin factores de expansión)
-correspondientes al grupo de edad de 15 a 24, de los cuáles el 41%
-provienen del área urbana y el 59% del área rural. Simultáneamente, 49%
-son hombres y 51% mujeres. Se cuentan con 502 observaciones para
-Totonicapán, 708 para Quetzaltenango, 465 para San Marcos, 539 para
-Huehuetenango y 525 para Quiché.
-
-Utilizando factores de expansión, los jóvenes identificados para todo el
-país, representan a un total de 3,462,500 personas sobre el agregado de
-consumo (114,169 en Totonicapán; 180,358 en Quetzaltenango; 229,213 en
-San Marcos; 267,725 en Huehuetenango y 229,226 en Quiché).
-
-<span id="_Toc466458505" class="anchor"></span>Cuadro 1 - Observaciones
-de 15 a 24 años en la Encovi 2014
-
-  DEPARTAMENTO     HOMBRE   MUJER   Total
-  ---------------- -------- ------- --------
-  Guatemala        461      465     926
-  El Progreso      196      192     388
-  Sacatepéquez     419      407     826
-  Chimaltenango    245      288     533
-  Escuintla        319      318     637
-  Santa Rosa       195      176     371
-  Sololá           245      248     493
-  Totonicapán      231      271     502
-  Quetzaltenango   323      385     708
-  Suchitepéquez    332      305     637
-  Retalhuleu       223      210     433
-  San Marcos       236      229     465
-  Huehuetenango    265      274     539
-  Quiché           241      284     525
-  Baja Verapaz     187      183     370
-  Alta Verapaz     238      253     491
-  Petén            307      343     650
-  Izabal           192      212     404
-  Zacapa           136      151     287
-  Chiquimula       200      197     397
-  Jalapa           275      249     524
-  Jutiapa          322      335     657
-  Total            5,788    5,975   11,763
-
-> Fuente: Instituto Nacional de Estadística (2016).
-
-A priori se han identificado algunas interrogantes dentro de la encuesta
-congruentes con el contenido:
-
-**Ingresos / Uso del tiempo (Crear agregados con capítulos de ingresos y
-uso del tiempo)**
-
--   p09c08b horas que acarreó agua para el uso del hogar ayer
-
--   p09c09b horas que recogió leña para uso del hogar ayer
-
--   p09d01b horas que atendió y/o cuidó niños(as) ayer
-
--   p09d02b horas que cuidó personas mayores del hogar ayer
-
--   p09d03b horas que cuidó personas enfermas del hogar ayer
-
--   p10a02 cuál fue la actividad principal de (...) la semana pasada?
-
--   p10a03 además de la actividad principal (?.), ¿la semana pasada:
-
--   p10a04 aunque (?.) no trabajó la semana pasada, ¿tenía algun
-    trabajo etc. con ingresos?
-
--   p10a05 cuál fue la razón principal por la que (?.) no trabajó la
-    semana pasada?
-
--   p10a06 la semana pasada, (...) ¿hizo algún trámite para buscar
-    trabajo/instalar propio negocio?
-
--   p10a07 en las últimas cuatro semanas, (?.) ¿hizo algún trámite para
-    buscar trabajo?
-
--   p10b01 cuántos trabajos tuvo (?.) la semana pasada?
-
-**Maternidad**
-
--   p05e04 ¿cuántos embarazos incluidas las pérdidas ha tenido?
-
--   p05e05 está embarazada actualmente?
-
--   p05e06a en qué mes y año quedó embarazada la última vez? mes
-
--   p05e06b en qué mes y año quedó embarazada la última vez? año
-
--   p05e13a durante los ultimos 12 meses, ¿ha pagado por las consultas,
-    exámenes, médicinas etc. de su embarazo?
-
--   p05e13b cuánto ha pagado por las consultas, examenes etc. de su
-    ultimo embarazo?
-
--   p05e14 en total, ¿cuántos hijos e hijas nacidos vivos ha tenido?
-
--   p05e15 de estos hijos, ¿cuántos están vivos actualmente?
-
--   p05e16a en que més y año, ¿tuvo su último hijo o hija nacido vivo?
-    mes
-
--   p05e16b en que més y año, ¿tuvo su último hijo o hija nacido vivo?
-    año
-
-**Costo sombra de la asistencia a la escuela**
-
--   p06a03b cuánto pagó por la inscripción o matrícula de (...)?
-
--   p06a04a para el presente año escolar, ¿compró uniformes para (...)?
-
--   p06a04b cuánto pagó en total por uniformes para (...)?
-
--   p06a05a al inicio presente año escolar, ¿compró libros, útiles y
-    materiales para?
-
--   p06a05b cuánto pagó en total por libros, materiales para (...)?
-
--   p06a06a para el presente año escolar, ¿está pagando la mensualidad
-    escolar de (...)?
-
--   p06a06b cuánto pagó en total por la mensualidad escolar de (...)?
-
--   p06a07a a ¿está pagando por el transporte de (...) para asistir al
-    plantel educativo?
-
--   p06a07b cuánto pagó en total por transporte de (...) para asistir al
-    plantel educativo?
-
--   p06a08a sin incluir lo comprado al inicio del presente año escolar,
-    ¿ha tenido gastos mensuales por la compra de materiales
-
--   p06a09a para el presente año escolar ¿ha tenido gastos diferentes a
-    los anteriores por la educación de (...)?
-
--   p06a09b cuánto pagó en total este año escolar de gastos diferentes a
-    los año anteriores para (...)?
-
-**La percepción sobre retornos económicos de la educación / formación**
-
--   p06b22 presente año ¿abandonó o ya no está asistiendo al plantel
-    donde se inscribió?
-
--   p06b23 cuál es la razón principal por la que (?) abandonó
-    definitivamente este año escolar?
-
--   p06b24 por qué razón (...) no se inscribió en el presente año
-    escolar?
-
--   p06b25a cuál fue el nivel y grado de educación más alto aprobado por
-    (?)? (nivel)
-
--   p06b25b cuál fue el nivel y grado de educación más alto aprobado por
-    (?)? (grado)
-
--   p06b26 por el nivel educativo más alto que aprobó, ¿obtuvo algún
-    título o diploma?
-
--   p06b27a cuál es el título o diploma obtenido por el nivel educativo
-    mas alto que aprobo?
-
--   p06b27b nombre del título obtenido por el nivel educativo mas alto
-    que aprobo.
-
--   p07a01 durante últimos 12 meses, ¿asistió a cursos de capacitación
-    para el trabajo/buscar empleo?
-
--   p07a02a cómo se llamaba el último curso al que asistió? (cod)
-
--   p07a02b cómo se llamaba el último curso al que asistió? (nombre
-    del curso)
-
--   p07a03 cuántas horas en total duró el último curso de capacitación
-    al que asistió?
-
-No obstante de estas variables directas encontradas en la encuesta se
-construirán otras que pueden dar luces sobre condiciones subyacentes o
-estructurales de los individuos, como medidas de riqueza de largo plazo,
-situación de los hermanos más grandes como proxy de las expectativas del
-entorno, situaciones relativas a la seguridad, la alimentación, la
-repitencia, la percepción de los centros educativos y otros que serán
-consignados en el documento Conceptual.
-
-
-==========
 
 
 Bibliografía
 ============
 
+Abuya, B., Onsomu, E.O., Moore, D., Sagwe, J., 2012. A phenomenological study of sexual harassment and violence among girls attending high schools in urban slums, Nairobi, Kenya. J. Sch. Violence 11 (4), 323–344.
+
+Allais, F.B. (2009). Assessing the gender gap: Evidence from SIMPOC surveys. International Programme on the Elimination of Child Labour (IPEC). ILO, Geneva.
+
+Amin, S., Quayes, S., & Rives, J. M. (2006). Market work and household work as deterrents to schooling in Bangladesh. World Development, 37(7), 1271–1286.
+Assaad, R., Levison, D., & Zibani, N. (2010). The effect of domestic work on girls’ schooling: Evidence from Egypt. Feminist Economics, 16(1), 79–128.
+
 Behrman, J. R., & Knowles, J. C. (1997). How Strongly is Child Schooling
 Associated with Household Income? ResearchGate. Recuperado a partir de
 https://www.researchgate.net/publication/23739127\_How\_Strongly\_is\_Child\_Schooling\_Associated\_with\_Household\_Income
+
+Bell, & Huebler (2015). Data on out-of-school children and adolescents. Capítulo en UIS & UNICEF (Eds) _Fixing the Broken Promise of Education for All: Findings from the Global Initiative on Out-of-School Children._ Montreal, Quebec: UIS & UNICEF. Recuperado a partir de http://eric.ed.gov/?id=ED560017
+
+Bhalotra, S., & Heady, C. (2003). Child farm labor: The wealth paradox. The World Bank Economic Review, 17(2), 197–222.
+
+Breen, R., & Goldthorpe, J. H. (1997). Explaining educational differentials: Towards a formal rational action theory. Rationality and Society, 9(3), 275–305.
+
+Chepleting S, Chepkemei A, Yano KL, Chebet LL. Factors influencing girls’ participation in free primary education: a survey of schools in Kapenguria Division-West Pokot District-Kenya. Int J Bus Com. 2013; 2:20–35.
+
+Cigno, A., Rosati, F., & Tzannatos, Z. (2002). Child labor handbook. social protection discussion paper 0206. Washington: The World Bank.
+
+Cigno, A., & Rosati, F. (2005). The economics of child labour. Oxford: University Press.
 
 Colclough, C., Tembon, M., & Rose, P. (1998). Gender Inequalities in
 Primary Schooling: The Roles of Poverty and Adverse Cultural Practice.
 Recuperado a partir de
 https://opendocs.ids.ac.uk/opendocs/handle/123456789/3396
 
+Duflo E, Dupas P, Kremer M, Sinei S. Education and HIV/AIDS prevention: evidence from a randomized evaluation in Western Kenya. World Bank Policy Research Working Paper 4024. 2006. Available: elibrary.worldbank.org/doi/pdf/10.1596/1813-9450-4024. Report No.: WPS4024. Accessed 2014 Aug 13.
+
+Dunne, M. and Leach, F. (2005) Gendered School Experiences: The Impact on Retention and Achievement. London: DFID
+
+Emerson, P. M., & Souza, A. P. (2007). Child labor, school attendance, and intrahousehold gender bias in Brazil. The World Bank Economic Review, 21(2), 301–316.
+
 Filmer, D., & Pritchett, L. (1999). The Effect of Household Wealth on
 Educational Attainment: Evidence from 35 Countries. Population and
 Development Review, 25(1), 85–120.
 http://doi.org/10.1111/j.1728-4457.1999.00085.x
+
+Guarcello, L., Lyon, S., & Rosati. (2004). Child labour and access to basic services: Evidence from five countries. Understanding Children’s Work Project Working Paper Series. Rome: Understandings Children’s Work.
+
+Goulart, P., & Bedi, A. S. (2008). Child labour and educational success in Portugal. Economics of Education Review, 27(5), 575–587.
+
+Grant, M. and Hallman, K. (2006) Pregnancy Related School Dropout and Prior School Performance in South Africa. Policy Research Division Working Paper No 212. New York: Population Council.
 
 Grossbard, S. (2006). Jacob Mincer: A Pioneer of Modern Labor Economics.
 Springer Science & Business Media.
 
 Gyimah-Brempong, K., & Asiedu, E. (2015). Remittances and investment in
 education: Evidence from Ghana. The Journal of International Trade &
-Economic Development, 24(2), 173–200.
-http://doi.org/10.1080/09638199.2014.881907
+Economic Development, 24(2), 173–200. http://doi.org/10.1080/09638199.2014.881907
 
-Hawke, A.; Bell, S.; Hattori, H.; Huebler, F.; Motivans, A.; & Waltham, M. (2015). Barriers and policy solutions. En UIS & UNICEF (Eds) _Fixing the Broken Promise of Education for All:
-Findings from the Global Initiative on Out-of-School Children._ Montreal, Quebec: UIS & UNICEF.
-Recuperado a partir de http://eric.ed.gov/?id=ED560017
+Hallfors D, Cho H, Rusakaniko S, Iritani B, Mapfumo J, Halpern C. Supporting adolescent orphan girls to stay in school as HIV risk prevention: evidence from a randomized controlled trial in Zimbabwe. Am J Public Health. 2011; 101:1082–8. doi: 10.2105/AJPH.2010.300042 PMID: 21493943
+
+Hawke, A.; Bell, S.; Hattori, H.; Huebler, F.; Motivans, A.; & Waltham, M. (2015). Barriers and policy solutions. Capítulo en UIS & UNICEF (Eds) _Fixing the Broken Promise of Education for All: Findings from the Global Initiative on Out-of-School Children._ Montreal, Quebec: UIS & UNICEF. Recuperado a partir de http://eric.ed.gov/?id=ED560017
 
 Heckman, J. J., Lochner, L. J., & Todd, P. E. (2003). Fifty Years of
 Mincer Earnings Regressions (Working Paper No. 9732). National Bureau of
-Economic Research. Recuperado a partir de
-http://www.nber.org/papers/w9732
+Economic Research. Recuperado a partir de http://www.nber.org/papers/w9732
 
 Hunt, F. (2008). Dropping Out from School: A Cross Country Review of the
 Literature. Create Pathways to Access. Research Monograph, No. 16.
 Recuperado a partir de http://eric.ed.gov/?id=ED504047
 
+Hutton, G., & Haller, L. (2004). Evaluation of the costs and benefits of
+water and sanitation improvements at the global level. Geneva: World
+Health Organisation.
+
 Instituto Nacional de Estadística (2016). *Encuesta de Condiciones de
 Vida 2016.* Guatemala: autor. Recuperado a partir de www.ine.gob.gt.
 
+Kaufman, Carol E., Thea de Wet, and Jonathan Stadler. 2001. “Adolescent pregnancy and parenthood in South Africa.” Studies in Family Planning 32(2): 147–160.
+
 Kingdon, G., & Theopold, N. (2006). Do Returns to Education Matter to
 Schooling Participation? Global Poverty Research Group Working Paper 52.
+
+Levison, D., & Moe, K. S. (1998). Household work as a deterrent to
+schooling: An analysis of adolescent girls in Peru. Journal of
+Developing Areas, 32(3), 339–356.
+
+McMahon SA, Winch PJ, Caruso BA, Obure AF, Ogutu EA, Ochari IA, et al. ‘The girl with her period is the one to hang her head’ reflections on menstrual management among schoolgirls in rural Kenya. BMC Int Health Hum Rights. 2011; doi: 10.1186/1472-698X-11-7
+
+Mason L, Nyothach E, Alexander A, Odhiambo FO, Eleveld A, Vuvlule J, et al. ‘We keep it secret so no one should know’—a qualitative study to explore young schoolgirls attitudes and experiences with men- struation in rural Western Kenya. PLoS ONE. 2013; 8:e79132. doi: 10.1371/journal.pone.0079132 PMID: 24244435
 
 Mekheimar, S. I., & Talaat, M. (2005). School non-enrolment and its
 relation with health and schistosomiasis knowledge, attitudes and
@@ -543,16 +420,26 @@ http://doi.org/10.1086/258055
 Mincer, J. (1974). Schooling, experience, and earnings. National Bureau
 of Economic Research; distributed by Columbia University Press.
 
+Mukherjee, D., & Das, S. (2008). Role of parental education in schooling
+and child labour decisions: Urban India in the last decade. Social
+Indicators Research, 89(2), 305–322.
+
 Takahashi, K. (2011). Determinants of Indonesian rural secondary school
 enrollment: gender, neighbourhood and school characteristics. Bulletin of
 Indonesian Economic Studies, 47(3), 395–413.
 http://doi.org/10.1080/00074918.2011.619053
+
+Warrington, M., Kiragu, S., 2012. It makes more sense to educate a boy: girls ‘against the odds’ in Kajiado, Kenya. Int. J. Educ. Dev. 32 (2), 301–309.
+
+Were M. Determinants of teenage pregnancies: the case of Busia District in Kenya. Econ Hum Biol. 2007; 5:332–9.
 
 Zuilkowski, S. S., Jukes, M. C. H., & Dubeck, M. M. (2016). “I failed,
 no matter how hard I tried”: A mixed-methods study of the role of
 achievement in primary school dropout in rural Kenya. International
 Journal of Educational Development, 50, 100–107.
 http://doi.org/10.1016/j.ijedudev.2016.07.002
+
+
 
 [^1]: En el reporte de esta iniciativa (Hawke, 2015) se reconoce a
     Guatemala como uno de 42 países que han cortado por la mitad la
