@@ -1,12 +1,9 @@
-# Plan de Trabajo Barreras
+# Documento conceptual de barreras de acceso a jóvenes fuera de la escuela
 **Plan International, Proyecto Leer y Aprender**
 
 13, 15, 19
 
-_Determinación del peso de variables que explican que los jóvenes no
-estén en la escuela, utilizando ENCOVI 2014 y priorizando barreras
-identificadas por el proyecto Leer y Aprender del proyecto USAID /
-Reforma Educativa en el Aula_
+En el marco de la consultoría _Determinación del peso de variables que explican que los jóvenes no estén en la escuela, utilizando ENCOVI 2014 y priorizando barreras  identificadas por el proyecto Leer y Aprender del proyecto USAID / Reforma Educativa en el Aula_.
 
 **Lic. Renato Vargas, M.Sc. - Economista**
 
@@ -132,9 +129,9 @@ El análisis de percepciones respalda la importancia de temas identificados por 
 
 Para dar contexto a los términos que aparecen con más frecuencia,se hizo un análisis de correlación en una matriz de distancias de las palabras en las frases en que los participantes las utilizaron. De esta forma se identificó términos cerca de los cuáles aparecen normalmente las palabras más frecuentes. Esto permitió construir temáticas relevantes con fundamento cuantitativo.
 
-El cuadro 2 (a-h) muestran las correlaciones de ocho palabras[^4] más frecuentes en la figura 1 con otros términos, es decir el porcentaje de aparición conjunta de esas palabras en las respuestas dadas por los participantes.
+El cuadro 2 (a-h) muestran las correlaciones de ocho palabras[^5] más frecuentes en la figura 1 con otros términos, es decir el porcentaje de aparición conjunta de esas palabras en las respuestas dadas por los participantes.
 
-[^4]: Se seleccionan ocho palabras por ser las que tienen una frecuencia mayor a 10. La selección es arbitraria para facilitar la exposición. En el anexo se consignan las correlaciones para todas las palabras de la figura.
+[^5]: Se seleccionan ocho palabras por ser las que tienen una frecuencia mayor a 10. La selección es arbitraria para facilitar la exposición. En el anexo se consignan las correlaciones para todas las palabras de la figura.
 
 **Cuadro 2. Términos correlacionados con las palabras más frecuentes en barreras de acceso a la educación (porcentaje de aparición conjunta en respuestas)**
 
@@ -186,7 +183,7 @@ El análisis de las transcripciones ha permitido esclarecer tendencias relevante
 
 5. La familia: la desintegración familiar, la muerte, cuán numeroso es el núcleo.
 
-6. Los establecimientos: condiciones de los establecimientos y qué tan lejos se encuentran. Además, es importante su tamaño (capacidad) y su capacidad, así como el cupo en los mismos.
+6. Los establecimientos: condiciones de los establecimientos y qué tan lejos se encuentran. Además, es importante su tamaño y su capacidad, así como el cupo en los mismos.
 
 7. La oferta educativa: brechas en la formación, lo privado, la existencia de becas, la cobertura pública y oficial en áreas rurales.
 
@@ -211,11 +208,13 @@ El análisis de las transcripciones ha permitido esclarecer tendencias relevante
 
 ## Marco teórico
 
+Aquí se parte de la teoría de capital humano (Becker & Tomes, 1986), en que la educación representa una inversión cuyo propósito es maximizar los beneficios monetarios y no monetarios a lo largo de la vida. El nivel óptimo de educación a alcanzar es aquel que iguala los costos, incluyendo los intereses incurridos al endeudarse, con los beneficios de educarse. La decisión de asistir tiene entonces, una relación positiva con los beneficios y negativa con los costos (Takahashi, 2011).
+
 Los hallazgos del diagnóstico participativo de jóvenes (USAID, 2015) y del ejercicio de autodiagnóstico (USAID, 2016) son congruentes con algunas de las causas de la deserción, no-continuidad o la no-matriculación en año encontradas consistentemente en estudios en la literatura sobre el tema. En general, la edad y el sexo, el embarazo temprano y la pobreza son los factores que aparecen con más frecuencia en los estudios (Zuilkowski, Jukes & Dubeck, 2016). Quizás la estimación del ingreso del hogar es la variable más asociada en estudios con diversas formas de acceso a escolaridad de una persona, incluso en el caso de Guatemala (Behrman & Knowles, 1997) y generalmente en estos estudios para los hogares más pobres el ingreso resulta decisivo, mientras que para hogares arriba de la línea de pobreza entran en juego otras variables e interacciones. Alternativamente, otras variables representativas de la riqueza a largo plazo del hogar diferentes del ingreso resultan también relevantes (Filmer & Pritchet, 2009).
 
-También existe un vínculo de las barreras identificadas en Guatemala (USAID, 2015, 2016) con hallazgos a nivel mundial. Por ejemplo, la Iniciativa Global por los Niños Fuera de la Escuela de UNICEF y UNESCO (Hawke et al., 2015), que incluye a Guatemala[^3] ha identificado cinco barreras a la educación alrededor del mundo: vivir en zonas violentas o de conflicto; las asociaciones culturales altamente arraigadas con uno u otro sexo definen quién va y quién se queda en la escuela; la dependencia de los hogares de mano de obra infantil compiten con las aspiraciones educativas que pueda tener la familia; muchos niños son marginados por sistemas educativos en idiomas que no hablan ni entienden; y finalmente la falta de datos sobre la cantidad y necesidades de los niños con discapacidades constituyen barreras importantes a la educación (Hawke, 2015). 
+También existe un vínculo de las barreras identificadas en Guatemala (USAID, 2015, 2016) con hallazgos a nivel mundial. Por ejemplo, la Iniciativa Global por los Niños Fuera de la Escuela de UNICEF y UNESCO (Hawke et al., 2015), que incluye a Guatemala[^6] ha identificado cinco barreras a la educación alrededor del mundo: vivir en zonas violentas o de conflicto; las asociaciones culturales altamente arraigadas con uno u otro sexo definen quién va y quién se queda en la escuela; la dependencia de los hogares de mano de obra infantil compiten con las aspiraciones educativas que pueda tener la familia; muchos niños son marginados por sistemas educativos en idiomas que no hablan ni entienden; y finalmente la falta de datos sobre la cantidad y necesidades de los niños con discapacidades constituyen barreras importantes a la educación (Hawke, 2015). 
 
-[^3]: En el reporte de esta iniciativa (Hawke, 2015) se reconoce a
+[^6]: En el reporte de esta iniciativa (Hawke, 2015) se reconoce a
     Guatemala como uno de 42 países que han cortado por la mitad la
     cantidad de niños fuera de la escuela entre 2000 y 2012. 
 
@@ -229,22 +228,24 @@ Asimismo, los padres de mayores ingresos pueden estar mejor educados y para ello
 
 Existen varios mecanismos a través de los cuales el ingreso tiene un impacto en la matriculación o en el desempeño escolar y hay una serie de estudios que muestran evidencia de esa relación. Por ejemplo, el ingreso del padre, de la familia o los gastos per cápita han mostrado explicar significativamente la asistencia escolar, la repitencia, los grados alcanzados, los días de escuela ausentes, las bajas notas, años de escolaridad, el desempeño escolar, la matriculación actual, el nivel de lectura, la matriculación tardía, el desempeño en matemática y lectura, los gastos en educación primaria y el abandono escolar en Bangladesh, Bolivia, Brasil, Costa de Marfil, Egipto, Ghana, Guatemala, India, Indonesia, Jamaica, Kenya, Malaysia, Mali, Nepal, Nicaragua, Pakistan, Paraguay, Perú, Sudáfrica, Taiwan, los Estados Unidos y la República Bolivariana de Venezuela, entre otros (Behrman & Knowles, 1997, p.2).
 
-Por su parte, los incrementos sostenidos en los niveles de ingresos de las familias de Vietnam en los años noventa explican la mayor parte de la baja en el trabajo infantil de ese país. En Filipinas, un incremento en las remesas familiares debido a cambios favorables en el tipo de cambio llevó a un incremento en las inversiones en capital humano y en el caso de México, la mejora en ingresos a las familias por el programa de transferencias condicionadas ha reducido el trabajo remunerado de mercado y ha aumentado la matriculación escolar (Carvalho, 2012).
+Por su parte, los incrementos sostenidos en los niveles de ingresos de las familias de Vietnam en los años noventa explican la mayor parte de la baja en el trabajo infantil de ese país. En Filipinas, un incremento en las remesas familiares debido a cambios favorables en el tipo de cambio llevó a un incremento en las inversiones en capital humano y en el caso de México, la mejora en ingresos a las familias por el programa de transferencias condicionadas ha reducido el trabajo remunerado de mercado y ha aumentado la matriculación escolar (Carvalho, 2012). Es interesante que hay hallazgos que la presencia de activos del hogar ha resultado positiva para la matriculación de las niñas, pero no de los niños (Deng et al., 2013).
+
+El acceso al crédito es un factor importante al momento de decidir sobre la educación de los niños. Este opera a través de varios canales. Por una parte se tiene lo más evidente que es el aumento del ingreso, pero de manera menos intuitiva opera a través de posibilitar el manejo del riesgo, reducir la demanda de trabajo infantil, empoderar a las mujeres del hogar. Todo esto puede mejorar las probabilidades de enviar a los niños a la escuela, aunque existen hallazgos paradójicos que muestran que en el caso que el crédito permita aumentar ligeramente operaciones agrícolas, estas demandarán más trabajo infantil en la parcela, o en el hogar mientras los padres se involucran más tiempo en el pequeño negocio agrícola (Maldonado & Gonzalez-Vega, 2008).
 
 **Los costos y los beneficios de la educación**
 
 Para los jóvenes y sus familias, la decisión de asistir y mantenerse en la escuela o en un programa de formación para el trabajo o el emprendimiento es, en gran medida, el resultado de sopesar continuamente los costos de asistir a la escuela con los beneficios adicionales que pueden esperarse a futuro por contar con más años de educación.
 
-En la teoría de capital humano que da soporte a estas afirmaciones (Becker & Tomes, 1986), la educación representa una inversión cuyo propósito es maximizar los beneficios monetarios y no monetarios a lo largo de la vida. El nivel óptimo de educación a alcanzar es aquel que iguala los costos, incluyendo los intereses incurridos al endeudarse, con los beneficios de educarse. La decisión de asistir tiene entonces, una relación positiva con los beneficios y negativa con los costos (Takahashi, 2011).
+Si bien, los costos pueden ser directos, como en el caso de la inscripción o de las mensualidades de los establecimientos educativos privados o algunos públicos, e indirectos como el costo del transporte, el uniforme o los útiles escolares (Jamison & Lockheed, 1987; Ilon & Moock, 1991), también es posible identificar un costo de oportunidad que representa el valor que pierde la familia o el individuo por no dedicar tiempo a una actividad laboral o por no contribuir a las labores del hogar (Takahashi, 2011).
 
-Si bien, los costos pueden ser directos, como en el caso de la inscripción o de las mensualidades de los establecimientos educativos privados o algunos públicos, e indirectos como el costo del transporte, el uniforme o los útiles escolares, también es posible identificar un costo de oportunidad que representa el valor que pierde la familia o el individuo por no dedicar tiempo a una actividad laboral o por no contribuir a las labores del hogar (Takahashi, 2011).
+Los beneficios de asistir a la escuela, entonces, se entienden como mejoras en ingresos que se pueden esperar en el futuro al contar con un año o nivel educativo más alto respecto de individuos similares que no cuentan con esa educación adicional. La evidencia empírica de este tema se agrupa en estudios que tratan de cuantificar econométricamente los retornos económicos de un año adicional de formación y si esto importa para la decisión de asistir o continuar estudiando[^7]. 
 
-Los beneficios de asistir a la escuela, entonces, se entienden como mejoras en ingresos que se pueden esperar en el futuro al contar con un año o nivel educativo más alto respecto de individuos similares que no cuentan con esa educación adicional. La evidencia empírica de este tema se agrupa en estudios que tratan de cuantificar econométricamente los retornos económicos de un año adicional de formación y si esto importa para la decisión de asistir o continuar estudiando[^4]. 
-
-[^4]: Estos estudios se agrupan en la tradición de las funciones de
+[^7]: Estos estudios se agrupan en la tradición de las funciones de
     ingresos de Mincer que explica los ingresos como una función de años
     de escolaridad y la experiencia en el mercado laboral (Mincer 1958,
     1974; Heckman, Lochner, & Todd, 2003).
+
+Es interesante notar que muchas de los factores que influyen las probabilidades de participar en la educación formal aquí descritos operan a través de canales que aumentan o reducen los costos de la educación, incluyendo los costos de oportunidad.
 
 
 **Trabajo remunerado y no remunerado**
@@ -267,13 +268,15 @@ En diversos estudios, el embarazo opera de distintas maneras sobre la decisión 
 
 En otros casos, las niñas toman la decisión de embarazarse pues es lo esperado en su círculo y porque hay una escasez de oportunidades sociales y económicas, que acompañada de las demandas domésticas y las desigualdades del sistema educativo hacen que las jóvenes tengan un desempeño escolar malo y se promueva la maternidad temprana (Grant & Hallman, 2006).
 
-Desde una perspectiva económica, los factores culturales que ocasionan una dificultad de acceso al mercado laboral para las mujeres hacen que los beneficios económicos de contar con educación percibidos por los padres sean menores para las niñas que para los varones en algunos ámbitos (Strauss & Thomas, 1995). En otros, la expectativa de que las jóvenes se casen a temprana edad hace que los padres piensen que los beneficios a la inversión en educación no se realizarán en el propio hogar, sino en el de la pareja y facilitan la decisión de no enviarlas a estudiar a temprana edad para que ayuden en el hogar mientras sean parte de él (Takahashi, 2011).
+Desde una perspectiva económica, los factores culturales que ocasionan una dificultad de acceso al mercado laboral para las mujeres hacen que los beneficios económicos de contar con educación percibidos por los padres sean menores para las niñas que para los varones en algunos ámbitos (Strauss & Thomas, 1995). En otros, la expectativa de que las jóvenes se casen a temprana edad hace que los padres piensen que los beneficios a la inversión en educación no se realizarán en el propio hogar, sino en el de la pareja y facilitan la decisión de no enviarlas a estudiar a temprana edad para que ayuden en el hogar mientras sean parte de él (Jamison & Lockheed, 1987).
 
 Pasado el embarazo, es posible que las niñas regresen al sistema educativo. No obstante, la evidencia empírica sobre esto es limitada. Regresar al sistema educativo puede depender en gran manera de si la joven madre se hace cargo del bebé o si puede compartir o diferir la responsabilidad. Se ha encontrado que las jóvenes en cuyo hogar vive una mujer adulta tienen una probabilidad más alta de regresar al sistema educativo después de abandonarlo por embarazo (Grant & Hallman, 2006).
 
 No obstante, muchas de las jóvenes al mudarse a la casa de la nueva pareja se alejan de su centro de estudios lo cual determina su baja re-inscripción (Kaufmann, 2001). A la vez, hay evidencia de situaciones en que las niñas no regresan a la escuela por miedo al ridículo o al estigma social (Dunne & Leach, 2005). Finalmente, el embarazo simplemente pone presiones económicas adicionales sobre las jóvenes, que se apilan sobre los costos directos e indirectos de la educación. La vulnerabilidad económica ampliada por los riesgos del embarazo simplemente se convierte en otro determinante de la deserción escolar (Grant & Hallman, 2006).
 
 El embarazo no es la única preocupación para las mujeres. Consistentemente, alrededor del mundo las niñas tienen una probabilidad más alta de desempeñar responsabilidades importantes entre las tareas del hogar, como hacer la limpieza, cocinar y cuidar a los hermanos pequeños. Estas tareas afectan el desempeño escolar y la asistencia (Warrington & Kiragu, 2012; Zuikowski et al., 2016). Además, en situaciones adversas, es posible que las escuelas se conviertan en lugares hostiles para las niñas debido al acoso y abuso que pueden sufrir por parte de maestros y compañeros (Abuya et al., 2012).
+
+En cuanto a expectativas de los padres y los alumnos mismos, la decisión de educarse es diferente para niños y niñas. Por ejemplo, se ha encontrado en México que para los niños las expectativas del mercado, como los retornos monetarios, parecen particularmente importantes, pero no para las niñas, para quiénes las expectativas de la madre son más importantes en la decisión final (Attanasio & Kaufman, 2014).
 
 **Otros factores importantes**
 
@@ -283,41 +286,119 @@ Además de los factores relacionados con el individuo, también es importante to
 
 La educación de ambos padres es un importante factor en la decisión de inscribir a los niños en el sistema educativo. Los padres que han recibido alguna educación entienden el valor de la misma, así como de los beneficios de la misma y por eso pueden estar más motivados a mandar a los niños a la escuela (Breen & Goldthorpe, 1997; Mukherjee & Das, 2008). Específicamente, la educación de la madre puede desempeñar un papel muy importante en las decisiones de educación de las hijas mujeres, pues al haber alcanzado ciertos grados de educación, no solo ven posible que las niñas alcancen mejores niveles educativos, sino también entienden el valor de esa educación (Webbing, Smits, & DeJong, 2011).
 
-En otros ámbitos, también se han considerado importantes ciertas características del sistema educativo. El racional detrás de esta importancia es que mientras mejor sea la calidad de las escuelas, habrá una mejor percepción del valor de la educación que se traducirá en mayores tasas de matriculación en una comunidad (Takahashi, 2011). Por esa razón, también es importante encontrar medidas de la calidad educativa, como los años de experiencia promedio de los maestros, las horas de trabajo promedio de los maestros.
+De igual manera, la ausencia de alguno de los padres también tiene efectos negativos. Existen factores psicológicos que afectan el rendimiento escolar y las probabilidades de inscribirse y, desde una perspectiva económica, la falta de un padre implica que se incrementa la necesidad de suplir el ingreso faltante y esto, a su vez, hace que crezca la presión para que los niños trabajen en el mercado laboral o en tareas del hogar en vez de estudiar (Webbing, Smits, & De Jong, 2011). Esto puede atenuarse cuando existe la presencia de miembros de la familia extendida dentro del hogar, como los abuelos o tíos, quienes se pueden hacer cargo de tareas que de otra forma quedarían en manos de los niños (Huisman & Smits, 2009). Hallazgos de Bolivia muestran que en hogares en donde existen familiares extendidos de sexo femenino, las niñas tienen una probabilidad de asistir exclusivamente a la escuela y no trabajar y se enfatiza la importancia de la provisión pública de guarderías para evitar que las niñas se dediquen al cuidado de los hermanos pequeños (Zapata, Contreras & Kruger, 2011)
 
-Los efectos llamados "de vecindario" hacen que los padres sientan una presión social de mandar a los niños a la educación, a pesar de los costos que esta pueda representar cuando la mayoría de niños de la comunidad asiste. Esto generalmente se mide con variables como el consumo per cápita promedio en el menor nivel administrativo posible al que pertenece el individuo y la proporción de niños inscritos en el sistema educativo (Takahashi, 2011).
+No obstante, el tamaño de la familia puede ser un factor negativo a medida que aumenta el número de bocas que alimentar y los costos escolares, la probabilidad de abandonar la escuela para trabajar en tareas del hogar o en el mercado laboral se incrementa (Emerson & Souza, 2008). En este sentido, el orden de nacimiento también puede ser importante, pues generalmente los primogénitos tienen menos oportunidades que los demás hijos pues tienen que ayudar con el cuidado de sus hermanos (Chesnokova & Vaithianathan, 2008), lo cual aumenta sus probabilidades de abandonar la escuela.
 
- 
+En otros ámbitos, también se han considerado importantes ciertas características del sistema educativo. El racional detrás de esta importancia es que mientras mejor sea la calidad de las escuelas, habrá una mejor percepción del valor de la educación que se traducirá en mayores tasas de matriculación en una comunidad (Takahashi, 2011). Por esa razón, también es importante encontrar medidas de la calidad educativa, como los años de experiencia promedio de los maestros o la cantidad de maestros con un contrato de largo plazo. En otras consideraciones, la simple distancia al centro educativo ha sido un factor importante a considerar, pues aumenta los costos de transporte de los niños (Guimbert et al., 2014). 
 
+Los efectos del entorno[^8] hacen que los padres sientan una presión social de mandar a los niños a la educación, a pesar de los costos que esta pueda representar cuando la mayoría de niños de la comunidad asiste. En las áreas urbanas, en donde hay mayor presencia estatal y mayor influencia de la globalización que enfatiza  el valor de la educación y la igualdad de los sexos, así como mejor infraestructura vial, la decisión de enviar a los hijos a la escuela puede pesar más (Huisman & Smits, 2009). Además, si el valor de la educación está atado no solo al conocimiento que se pueda obtener de los maestros, sino del hecho de compartir con los compañeros y sus padres, a mayor cantidad de vecinos y amigos inscritos en la escuela, mayores las probabilidades que los niños del hogar quieran asistir (Case & Katz, 1991). Esto generalmente se mide con variables como el consumo per cápita promedio en el menor nivel administrativo posible al que pertenece el individuo y la proporción de niños inscritos en el sistema educativo en una determinada región administrativa (Takahashi, 2011).
 
+[^8]: En la literatura del tema estos se conocen como _neighborhood effects_ o efectos de vecindario (Case & Katz, 1991).
 
+La violencia está asociada con menos matriculación, pero cuando la violencia implica la pérdida de activos del hogar, es decir indicadores de riqueza de largo plazo, hay una probabilidad más alta de enviar a los niños a la escuela como forma de invertir en otra forma de capital a manera de seguro para el futuro (Badiuzzaman, 2014). Esto no es intuitivo porque sería normal pensar que a más violencia menos matriculación. Pero el problema aquí es que el miedo de violencia de que se habla aquí es sobre el desalojo de tierras, pues eso equivale a un miedo a ver el mayor capital que la familia posee disminuido, mostrando la necesidad de compensar con otras formas de capital; humano en este caso.
 
 ## Modelo conceptual
 
-Comprendiendo esto, es posible identificar factores que incrementan dichos costos o mejoran los beneficios y que en su conjunto afectan la demanda de educación o formación de las familias. Para facilitar la comprensión, se hace una clasificación de estos factores siguiendo una convención relacionada con el tema (Takahashi, 2011).
+Partiendo de la teoría del capital humano (Becker & Tomes, 1986), y de la exposición de la sección anterior, se propone un modelo conceptual flexible que ordena los diferentes factores, con el fin de identificar aquellos que afectan los costos o mejoran los beneficios relativos esperados de la educación y que en su conjunto afectan la demanda de educación o formación de las familias. Se sigue una convención (Takahashi, 2011) para ordenar las características relevantes en 1) características de la persona; 2) características del hogar; 3) características de la región; y 4) características del sistema educativo. 
+
+1) Variables de interés:
+
+* ¿Asiste el individuo a la educación formal?
+* ¿Asiste el individuo a la formación laboral y emprendimiento?
+* ¿Completó el individuo determinado nivel escolar?
+
+Determinadas por:
+
+2) Características de la persona:
+
+* Edad.
+* Orden de nacimiento entre los hermanos (¿primogénito?)
+* Sexo.
+* Embarazo.
+* El costo sombra individual de la asistencia a la escuela (libros, uniformes, refacción, etc.).
+* Pertenencia étnica.
+* Trabaja (no trabaja, trabaja exclusivamente, trabaja y estudia).
+* Trabajo no remunerado.
+* Correspondencia entre edad y año en que se encuentra inscrito (si lo está).
+* Nivel educativo completado.
+* Distancia al centro educativo (kilómetros, horas).
+* Discrepancia entre idioma hablado en casa e idioma en que se imparte la educación.
+
+Características del hogar:
+
+* Sexo del jefe del hogar.
+* El jefe del hogar lee o escribe.
+* ¿Alguno de los padres está ausente?
+* Escolaridad alcanzada por el jefe del hogar y su pareja.
+* Escolaridad alcanzada por los hermanos mayores.
+* Desintegración del hogar (muerte, divorcio).
+* Tamaño del hogar.
+* Los costos totales sombra de la asistencia de todos los hijos a la escuela.
+* Número de miembros del hogar dependientes.
+* Número de miembros del hogar en edad escolar.
+* Existencia de adultos de familia extendida en el hogar (femeninos y masculinos).
+* Ingreso per cápita familiar (ingreso del hogar dividido número de miembros).
+* Cuenta con electricidad en la vivienda.
+* Cuenta con una conexión de agua potable en la vivienda.
+* Posee tierra el hogar.
+* Posee ganado el hogar.
+* Acceso a crédito.
+
+Características de la región:
+
+* Departamento
+* Ingreso per cápita promedio en la región.
+* Tasas de matriculación de niños, adolescentes y adultos en la región.
+* Porcentajes de niños que asisten a la educación privada en la región.
+* Urbana o rural.
+* Percepción de seguridad en el área.
+* Porcentaje de la población empleada en actividades agrícolas en la región (hombres, mujeres).
+* Porcentaje de individuos por debajo de la línea de pobreza en la región.
+* Tasa de desempleo en ocupaciones no-agrícolas en la región.
+* Tasa de desempleo en ocupaciones agrícolas en la región.
+* Retornos a la educación en la región (mejoras en ingreso atribuidas a un año o nivel mayor de escolaridad).
+
+Características del sistema educativo:
+
+* Relación alumno/maestro en la región.
+* Años de experiencia promedio de los maestros.
+* Horas promedio dedicadas a la docencia en la región.
+* Salario promedio de los maestros de la región.
+* Proporción de maestros por contrato.
+* Proporción de centros educativos privados.
+* Existencia de centros de formación primaria.
+* Existencia de centros de formación secundaria.
+* Existencia de centros de formación vocacional.
+* Existencia de centros de formación laboral y de emprendimiento.
+
+No todas las variables aquí mencionadas se pueden usar en estudios empíricos derivados de este marco simultáneamente, dadas consideraciones de violación a supuestos de las técnicas estadísticas de análisis, pero enumerarlas provee flexibilidad para aplicarla a diferentes instrumentos (encuestas) dependiendo de los objetivos de análisis y la disponibilidad de información. También permite ordenar las propuestas de solución y sus campos de acción de manera congruente.
+
+El modelo explica que la decisión del individuo de asistir a la formación formal o laboral y completar niveles en la misma, puede verse afectada por la edad y la correspondencia que haya entre esa edad y el año escolar en el que el niño o adolescente esté escrito. Asimismo, el costo indirecto que represente para cada niño puede pesar en la decisión de enviarlo a estudiar o no y este puede verse afectado por la distancia al centro educativo. El lugar que ocupe entre los hermanos dentro del hogar puede determinar qué tanto tiene que participar en labores remuneradas o no remuneradas para ayudar a la familia. El trabajo puede ser importante barrera de acceso a la educación.
+
+Por su parte, la discrepancia entre el idioma que el niño habla en casa y el idioma en que recibe la educación pueden afectar su rendimiento escolar, lo cual puede desalentar al niño a continuar asistiendo, pero contar con niveles educativos completos puede darle mayores probabilidades de éxito en niveles más altos. En este sentido, la pertenencia étnica puede explicar razones culturales que limiten que miembros de determinado sexo alcancen ciertos niveles de educación.
+
+Respecto a las características del hogar, el modelo sugiere que la escolaridad alcanzada por el jefe del hogar y el sexo del mismo pueden determinar las percepciones que los padres tengan de la educación, y a la vez mejoren o empeoren el apoyo que se da a los hijos para que asistan a la educación. No solo eso, sino la escolaridad alcanzada por los hermanos puede ser un aliciente a la educación que pueden mejorar la asistencia de los más pequeños. El tamaño del hogar ciertamente influye en los costos de mantener el hogar y pone presiones económicas al acceso a la educación, el cual puede tener costos altos en relación al ingreso familiar.
+
+La existencia de adultos de familia extendida en el hogar pueden aminorar las cargas de trabajo que tradicionalmente desempeñen los niños en el hogar, lo cual se espera aumente las probabilidades de asistir a la educación.
+
+Un hogar que cuenta con acceso a electricidad y agua puede ser un ambiente en que los niños no deban desempeñar tareas que la falta de estos servicios imponen al mismo. Por eso es posible que se mejoren las probabilidades de asistencia de los niños. No obstante, al contar con acceso a crédito, la presencia de activos como tierra o ganado pueden hacer que, al contrario, aumenten las cargas de trabajo del hogar, requiriendo el apoyo de los niños y disminuyendo las probabilidades de asistir a la escuela.
+
+Existe una serie de características de la región en que vive el individuo que también pueden afectar la decisión de que asista a la escuela. Por ejemplo, si en la región hay una proporción alta de asistencia a la escuela, puede que presiones culturales hagan que el costo de no enviar a los niños a la escuela sea muy alto y que eso mejore la probabilidad de asistir. Además, son importantes las percepciones sobre el mercado laboral. Por una parte, si existen tasas altas de desempleo en actividades no agrícolas, puede pensarse que la percepción de los beneficios del estudio bajen, afectando la asistencia de los niños. Inversamente, la existencia de retornos altos a la educación, dado por el diferencial salarial de un año o un nivel mayor de educación, puede servir de incentivo para asistir y permanecer en la escuela.
+
+Por último, el modelo propone que ciertas características relacionadas con la calidad del sistema educativo y su disponibilidad afecten las decisiones de enviar a los niños a la escuela.
 
 
-En donde $E$ is una variable binaria que toma el valor 1 si la persona
-asiste a la formación (o tiene cierto nivel educativo, o cierta
-habilidad, etc.) y 0 si no. Los subíndices se refieren al individuo “i”,
-el hogar “h” y la región “j”. La variable $E$ está en función $f()$ de
-varios grupos de características **del individuo** $\mathbf{X}$ (e.g.
-sexo, edad, si completó la primaria, etc.), **del hogar** $\mathbf{H}$
-(e.g. sexo del jefe del hogar, edad del jefe del hogar, años de
-educación de los padres, número de dependientes, número de personas en
-edad escolar/de formación, y variables relacionadas con la riqueza del
-hogar como ingreso, activos, etc.), **de la región** $\mathbf{C}$ (e.g.
-disponibilidad de escuelas primarias secundarias en la región,
-distancias promedio reportadas a los centros educativos, disponibilidad
-de crédito, consumo per cápita promedio en la región como proxy de
-riqueza de la comunidad, tasas de matriculación en la región de niños,
-jóvenes, adultos, etc.), y **del sistema educativo** $\mathbf{S}$ (e.g.
-años de experiencia promedio de maestros en planilla de la región, horas
-promedio de trabajo de los maestros, salario promedio de los maestros de
-la región, como aproximaciones de la calidad educativa, proporción de
-maestros por contrato, etc.); finalmente $\mathbf{e}$ corresponde al
-error. Expresamente se tomarán precauciones para evitar problemas de
-endogeneidad y otras violaciones a los supuestos estadísticos.
+## Consideraciones finales
+
+En el presente documento se ha hecho un recuento de las barreras identificadas por el proyecto Leer y Aprender de USAID que determinan que los jóvenes estén fuera de la escuela. Asimismo, se ha expuesto los patrones comunes entre los participantes de eventos de autodiagnóstico de personas en departamentos fuera del área de influencia del proyecto mencionado, al referirse a lo que ellos consideran como barreras de acceso a la educación.
+
+De esa cuenta se considera como prioritario para el área de influencia del proyecto: los ingresos; la maternidad a temprana edad; el costo sombra de la asistencia a la escuela; el apoyo y educación de los padres; la percepción sobre los beneficios económicos de contar con más años de escolaridad; el trabajo remunerado o el trabajo familiar no remunerado; y de adicionalmente, según el análisis de autodiagnóstico: la distancia de los establecimientos educativos, sus condiciones y capacidad; la formación de los padres; la situación económica; la desintegración familiar y el tamaño de la familia.
+
+Partiendo de la teoría de capital humano (Becker & Tomes, 1986), en que la educación representa una inversión cuyo propósito es maximizar los beneficios monetarios y no monetarios a lo largo de la vida, se ha explicado con base en hallazgos de estudios empíricos los mecanismos a través de los cuales las barreras identificadas influyen aumentando los costos de la educación o mejorando los beneficios relativos que pueden esperarse de la misma, incluyendo factores culturales que _a priori_ parecen desconectados de la esfera económica. 
+
+Con base en estas consideraciones se propone un marco conceptual de análisis flexible que divide las características que pueden constituirse en barreras de acceso a la educación entre 1) características del individuo; 2) características del hogar; 3) características de la región; y 4) características del sistema educativo. Este marco también permite orientar los esfuerzos de solución hacia esferas de acción congruentes con la naturaleza de las instituciones involucradas.
+
 
 
 
@@ -329,7 +410,9 @@ Abuya, B., Onsomu, E.O., Moore, D., Sagwe, J., 2012. A phenomenological study of
 Allais, F.B. (2009). Assessing the gender gap: Evidence from SIMPOC surveys. International Programme on the Elimination of Child Labour (IPEC). ILO, Geneva.
 
 Amin, S., Quayes, S., & Rives, J. M. (2006). Market work and household work as deterrents to schooling in Bangladesh. World Development, 37(7), 1271–1286.
-Assaad, R., Levison, D., & Zibani, N. (2010). The effect of domestic work on girls’ schooling: Evidence from Egypt. Feminist Economics, 16(1), 79–128.
+Assaad, R., Levison, D., & Zibani, N. (2010). The effect of domestic work on girls’ schooling: Evidence from Egypt. Feminist Economics, 16(1), 79–128.\
+
+Attanasio, O. & Kaufmann, K. (2014). Education choices and returns to schooling: Mothers' and youths' subjective expectations and their role by gender. _Journal of Development Economics_, 109: 203-216.
 
 Behrman, J. R., & Knowles, J. C. (1997). How Strongly is Child Schooling
 Associated with Household Income? ResearchGate. Recuperado a partir de
@@ -341,7 +424,11 @@ Bhalotra, S., & Heady, C. (2003). Child farm labor: The wealth paradox. The Worl
 
 Breen, R., & Goldthorpe, J. H. (1997). Explaining educational differentials: Towards a formal rational action theory. Rationality and Society, 9(3), 275–305.
 
+Case, Anne C. and Katz, Lawrence F. (1991) ‘The company you keep: the effects of family and neighborhood on disadvantaged youths’, NBER Working Paper 3705, National Bureau of Economic Research, Cambridge MA.
+
 Chepleting S, Chepkemei A, Yano KL, Chebet LL. Factors influencing girls’ participation in free primary education: a survey of schools in Kapenguria Division-West Pokot District-Kenya. Int J Bus Com. 2013; 2:20–35.
+
+Chesnokova, T., & Vaithianathan, R. (2008). Lucky last? Intra-sibling allocation of child labor. The B.E. Journal of Economic Analysis & Policy, 8(1).
 
 Cigno, A., Rosati, F., & Tzannatos, Z. (2002). Child labor handbook. social protection discussion paper 0206. Washington: The World Bank.
 
@@ -352,11 +439,16 @@ Primary Schooling: The Roles of Poverty and Adverse Cultural Practice.
 Recuperado a partir de
 https://opendocs.ids.ac.uk/opendocs/handle/123456789/3396
 
+Deng, S.; Huang J.; Jin, M.; & Sherraden, M. (2013). Household assets, school enrollment, and parental aspirations for children’s education in rural China:
+Does gender matter? _International Journal of Social Welfare_, 23: 185-194. 
+
 Duflo E, Dupas P, Kremer M, Sinei S. Education and HIV/AIDS prevention: evidence from a randomized evaluation in Western Kenya. World Bank Policy Research Working Paper 4024. 2006. Available: elibrary.worldbank.org/doi/pdf/10.1596/1813-9450-4024. Report No.: WPS4024. Accessed 2014 Aug 13.
 
 Dunne, M. and Leach, F. (2005) Gendered School Experiences: The Impact on Retention and Achievement. London: DFID
 
-Emerson, P. M., & Souza, A. P. (2007). Child labor, school attendance, and intrahousehold gender bias in Brazil. The World Bank Economic Review, 21(2), 301–316.
+Emerson, P., & Souza, A. P. (2007). Child labor, school attendance, and intrahousehold gender bias in Brazil. The World Bank Economic Review, 21(2), 301–316.
+
+Emerson, P., & Souza, A. P. (2008). Birth order, child labor, and school attendance in Brazil. World Development, 36(9), 1647–1664.
 
 Filmer, D., & Pritchett, L. (1999). The Effect of Household Wealth on
 Educational Attainment: Evidence from 35 Countries. Population and
@@ -384,6 +476,8 @@ Heckman, J. J., Lochner, L. J., & Todd, P. E. (2003). Fifty Years of
 Mincer Earnings Regressions (Working Paper No. 9732). National Bureau of
 Economic Research. Recuperado a partir de http://www.nber.org/papers/w9732
 
+Huisman, J., & Smits, J. (2009a). Effects of household and district-level factors on primary school enrollment in 30 developing countries. World Development, 37(1), 179–193.
+
 Hunt, F. (2008). Dropping Out from School: A Cross Country Review of the
 Literature. Create Pathways to Access. Research Monograph, No. 16.
 Recuperado a partir de http://eric.ed.gov/?id=ED504047
@@ -392,8 +486,12 @@ Hutton, G., & Haller, L. (2004). Evaluation of the costs and benefits of
 water and sanitation improvements at the global level. Geneva: World
 Health Organisation.
 
+Ilon, L. & Moock, P. (1991). School attributes, household characteristics, and demand for schooling: a case study of rural Perú. _International Review of Education_, 37(4): 439-451.
+
 Instituto Nacional de Estadística (2016). *Encuesta de Condiciones de
 Vida 2016.* Guatemala: autor. Recuperado a partir de www.ine.gob.gt.
+
+Jamison, D.; & Lockheed, M. (1987). Participation in Schooling: determinants and Learning Outcomes in Nepal. Economic Development and Cultural Change.
 
 Kaufman, Carol E., Thea de Wet, and Jonathan Stadler. 2001. “Adolescent pregnancy and parenthood in South Africa.” Studies in Family Planning 32(2): 147–160.
 
@@ -404,9 +502,11 @@ Levison, D., & Moe, K. S. (1998). Household work as a deterrent to
 schooling: An analysis of adolescent girls in Peru. Journal of
 Developing Areas, 32(3), 339–356.
 
-McMahon SA, Winch PJ, Caruso BA, Obure AF, Ogutu EA, Ochari IA, et al. ‘The girl with her period is the one to hang her head’ reflections on menstrual management among schoolgirls in rural Kenya. BMC Int Health Hum Rights. 2011; doi: 10.1186/1472-698X-11-7
+Maldonado, J. & González-Vega, C. (2008). Impact of Microfinance on Schooling: Evidence from Poor Rural Households in Bolivia. _World Development_, 36(11): 2440-2455.
 
 Mason L, Nyothach E, Alexander A, Odhiambo FO, Eleveld A, Vuvlule J, et al. ‘We keep it secret so no one should know’—a qualitative study to explore young schoolgirls attitudes and experiences with men- struation in rural Western Kenya. PLoS ONE. 2013; 8:e79132. doi: 10.1371/journal.pone.0079132 PMID: 24244435
+
+McMahon SA, Winch PJ, Caruso BA, Obure AF, Ogutu EA, Ochari IA, et al. ‘The girl with her period is the one to hang her head’ reflections on menstrual management among schoolgirls in rural Kenya. BMC Int Health Hum Rights. 2011; doi: 10.1186/1472-698X-11-7
 
 Mekheimar, S. I., & Talaat, M. (2005). School non-enrolment and its
 relation with health and schistosomiasis knowledge, attitudes and
@@ -431,7 +531,11 @@ http://doi.org/10.1080/00074918.2011.619053
 
 Warrington, M., Kiragu, S., 2012. It makes more sense to educate a boy: girls ‘against the odds’ in Kajiado, Kenya. Int. J. Educ. Dev. 32 (2), 301–309.
 
+Webbing, E.; Smits, J.; & De Jong, E. (2011). Hidden Child Labor: Determinants of Housework and Family Business Work of Children in 16 Developing Countries. _World Development_ 40(3) 631-642
+
 Were M. Determinants of teenage pregnancies: the case of Busia District in Kenya. Econ Hum Biol. 2007; 5:332–9.
+
+Zapata, D. & Contreras, D. (2011). Child Labor and Schooling in Bolivia: Who’s Falling Behind? The Roles of Domestic Work, Gender, and Ethnicity. _World Development_, 39(4): 588-599.
 
 Zuilkowski, S. S., Jukes, M. C. H., & Dubeck, M. M. (2016). “I failed,
 no matter how hard I tried”: A mixed-methods study of the role of
@@ -439,13 +543,3 @@ achievement in primary school dropout in rural Kenya. International
 Journal of Educational Development, 50, 100–107.
 http://doi.org/10.1016/j.ijedudev.2016.07.002
 
-
-
-[^1]: En el reporte de esta iniciativa (Hawke, 2015) se reconoce a
-    Guatemala como uno de 42 países que han cortado por la mitad la
-    cantidad de niños fuera de la escuela entre 2000 y 2012.
-
-[^2]: Estos estudios se agrupan en la tradición de las funciones de
-    ingresos de Mincer que explica los ingresos como una función de años
-    de escolaridad y la experiencia en el mercado laboral (Mincer 1958,
-    1974;Heckman, Lochner, & Todd, 2003).
